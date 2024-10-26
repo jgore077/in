@@ -1,5 +1,6 @@
 from sentence_transformers import SentenceTransformer
 import numpy as np
+import tqdm
 import json
 import re
 
@@ -26,7 +27,7 @@ class BiEncoder():
     def _create_embeddings(self):
         embeddings=[]
         # Iterate over answers and encode the text without no html
-        for answer in self.answers:
+        for answer in tqdm.tqdm(self.answers):
             embeddings.append(self.model.encode(remove_html_tags(answer["Text"])))
             
         # Write embeddings back out to file
