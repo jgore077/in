@@ -7,6 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1ZAnXpfn_myQEyHSrvFGKTAyhEazBo3Di
 """
 
+
+TRAIN_FILE="train.json"
+VALIDATION_FILE="validation.json"
+TEST_FILE="test.json"
 from sentence_transformers import SentenceTransformer, util
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
