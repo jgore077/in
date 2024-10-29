@@ -1,0 +1,602 @@
+[
+    {
+        "Id": "10",
+        "Title": "When traveling to a country with a different currency, how should you take your money?",
+        "Body": "<p>Recently my wife and I traveled to Italy and before we left we got about 85% of our money in travelers checks and the other 15% we carried on in cash. When we arrived there, no one would take our travelers checks and many places did not accept credit cards. Eventually, we found some currency exchange places that would take the travelers checks and give us Euro's, but at a 7-15% fee, which was not really a very fun surprise. </p><p>While I was under the impression that it is safer to use travelers checks, it seems that they were not really accepted (the usual explanation being fraud). So the question is, is it best to just exchange your currency at home and carry all of it with you when you travel or are there other alternatives to carrying cash that are safer and cost effective?</p>",
+        "Tags": "['safety', 'international-travel', 'money', 'exchange']"
+    },
+    {
+        "Id": "143383",
+        "Title": "Traveling from Germany to other countries by train?",
+        "Body": "<p>I'm going to be taking a trip to Germany in a few days.  I will be in Munich and I was considering taking the train to somewhere in Austria (Innsbruck maybe?) so I could see the Alps.  </p><p>I'm wondering how difficult it is to travel between countries for something like this?  Do I need to go through the whole customs process or is it pretty much like traveling within Germany since they are both part of the EU?</p>",
+        "Tags": "['trains', 'germany', 'eu']"
+    },
+    {
+        "Id": "105",
+        "Title": "How can I travel between US towns without flying?",
+        "Body": "<p>Can you help me decide, what type of transport can I use to travel from one US town to another (it will be a big journey), without flying?</p><p>Are buses available, and is there any more suitable method of traveling?</p>",
+        "Tags": "['usa', 'transportation', 'overland']"
+    },
+    {
+        "Id": "57455",
+        "Title": "What meals are available on Russian trains?",
+        "Body": "<p>When travelling by rail in Russia, are dining cars present?  What quality of food would one expect on a train diner as compared to those one would find in Europe? I am especially keen to know if smoked fish from Lake Baikal might be available.</p><p>Is there hot water for drinking in the 3rd class coach?</p>",
+        "Tags": "['trains', 'food-and-drink', 'russia', 'siberia']"
+    },
+    {
+        "Id": "119",
+        "Title": "What times of the year are best for visiting France?",
+        "Body": "<p>When I visited Rome, Italy, I ended up visiting during August which seems to be a time when most Italians have fled the city to cooler areas. This was nice because there was less traffic so we were able to move around better. At the same time, it was really quite hot, which was not as fun. I'm definitely not a fan of crowds, but I would rather deal with crowds than with bad weather and less activities. </p><p>What are the ideal times of the year to visit France, particularly Paris, balancing out weather, crowds (locals and tourists), and available activities (festivals and such)?</p>",
+        "Tags": "['planning', 'france', 'paris', 'festivals']"
+    },
+    {
+        "Id": "71807",
+        "Title": "Paddington to Euston with kids: minimum walking by tube or by taxi?",
+        "Body": "<p>In a few weeks, my two kids (6.5 and 4) and I will be in London.  We will need to get from Paddington Station (Heathrow Express terminus) to Euston Station (trains to the North).  I am trying to figure out the safest way to do this.  For the purposes of this question, I am mostly defining \"safe\" as meaning minimizing the amount of time walking along the busy streets with two kids and all our luggage, while in a jet-lagged state.  For example I don't really want to get the Circle line tube to Euston Square then cross over busy Euston Street to get to Euston Station proper.</p><p>My research so far yields the following options:</p><ul><li><p>London taxi.  This seems like a no-brainer, but so far I don't fully understand the carseat situation.  As far as I can tell, <a href=\"https://www.gov.uk/child-car-seats-the-rules/when-a-child-can-travel-without-a-car-seat\">it is <em>legal</em></a> for the kids (of this age) to travel using adult seatbelts, if carseats are not provided.  However, in the interests of safety, I don't want to travel in a taxi without carseats of appropriate size for my kids.  I've read that <em>some</em> taxis have carseats, but its not clear how common this is.  </p></li><li><p>Tube.  Unfortunately as far as I can tell, there are no direct tube lines from Paddington to Euston station.  I think I'd have to do Circle line to St. Pancras then Northern line to Euston, or Bakerloo line to Charing Cross then Northern line to Euston.  The extra tube change does not sound particularly appealing.</p></li></ul><p>So my question boils down to the following parts:</p><ol><li><p>Is it reasonable to expect to easily get a taxi with carseats at Paddington Station, without an unreasonable wait?</p></li><li><p>If taxis are not an option, then what's the best tube route from Paddington to Euston, bearing in mind luggage and two kids.</p></li></ol><hr><p>A bit more background:  Our journey is actually from Heathrow to Stoke-on-Trent.  After considering safety, I'm hoping this journey will be as relaxed and stress-free as possible, so I'm hoping for as few changes as possible.  Heathrow Express seems to be the most reasonable train out of Heathrow, and Euston to Stoke on Virgin seems like the best way to get to Stoke.  However if there are other options that I've missed, then I'd love to hear them.</p>",
+        "Tags": "['trains', 'public-transport', 'london', 'children', 'taxis']"
+    },
+    {
+        "Id": "153",
+        "Title": "What's the cheapest way to purchase data access for my verizon smartphone while traveling in Spain?",
+        "Body": "<p>What's the cheapest way to purchase data access for my verizon smartphone while traveling in Spain? Voice minutes would be useful too, although data only would be ideal. Specifically, I'll be traveling in southern Spain for about two weeks' time.</p>",
+        "Tags": "['budget', 'cellphones', 'spain', 'mobile-operators', 'data-plans']"
+    },
+    {
+        "Id": "26780",
+        "Title": "Is there a flight search engine that combines flights from different airlines?",
+        "Body": "<p>Is there a search engine that considers \"mix&match\" flight combinations?</p><p>My current problem: I need to go from FRA to YLW (Frankfurt/Germany to Kelowna/Canada) on July 29th, and arrive no later than 5pm. The search engines I checked only offer \u20ac3000+ flights.</p><p>I found a 2-stop combo through LHR and YVR for half that price. I'll probably have to check my baggage out and back in twice, but if the layover times are long enough, who cares?</p><p>A <em>real</em> search engine could find that for me (or something that's even better). Or, hell, give me a place to bulk-download the flight schedules from and I'll program it myself (of course I'd also need a way to check seat availability \u2026).</p><p><strong>Update:</strong> Please read before answering. A search engine which does this should, at minimum, show the flight combination through LHR which I found manually. Note that I need to arrive before 5pm, <em>on the same day</em>.</p><p>Also note that this is a generic question; I'm not looking for a specific good flight here -- but the details are useful to illustrate whether an answer is actually valid. :-/</p><p>NB: Typo, should have been July 29th.</p>",
+        "Tags": "['air-travel', 'online-resources', 'airlines', 'bookings', 'flight-search-engines']"
+    },
+    {
+        "Id": "20639",
+        "Title": "How to hide your bodily odors after a long flight?",
+        "Body": "<p>Of course I could fly first class on an airline that provide on-board showers. Since I lack the funds, that is not an option for me. </p><p>The scenario is as follows:</p><p>Your plane leaves in the evening. During the day you just enjoy the city, but it appears to be just a bit more sunny than you expected. Since you already checked out from your hotel, you are not able to take a shower before heading for the airport. At the airport, the showers are unavailable due to technicalities. You then buy some tax-free aftershave to freshen up. You then have a 12 hour flight, after which  you have to transfer between terminals in a packed bus while it is 30 degrees Celsius. When you board your connecting flight, you realize that a cocktail of 24 hours of dried sweat and 12 hours dried aftershave just do not add up and that the people sitting next to you on the connecting flight are going to have a very uncomfortable flight. </p><p>Is there anything you can do to prevent this awkward situation? </p>",
+        "Tags": "['air-travel', 'tips-and-tricks', 'long-haul', 'hygiene', 'etiquette']"
+    },
+    {
+        "Id": "96447",
+        "Title": "Why prohibit engine braking?",
+        "Body": "<p>When I learned driving in The Netherlands (in a car with a manual gearbox), I learned that on a down slope\u00b9, I should switch to low gear and use the engine to brake, thus reducing the wear on the brakes.  In Dutch, this is called <em>op de motor remmen</em>, which literally translates as <em>braking on the engine</em>.</p><p>In the USA, I have seen signs prohibiting <em>engine braking</em>:</p><p><img src=\"https://upload.wikimedia.org/wikipedia/commons/c/c3/PortageWisconsinSignWIS33.jpg\" alt=\"no engine braking\"><br>\"No engine braking\" sign outside Portage, Wisconsin.  <em>Source: <a href=\"https://commons.wikimedia.org/wiki/File:PortageWisconsinSignWIS33.jpg\" rel=\"noreferrer\">Wikimedia Commons</a></em>.</p><p>What exactly is prohibited here, and why?</p><hr><p>\u00b9<sub>In The Netherlands \u2014 strictly theoretical ;-)</sub></p>",
+        "Tags": "['usa', 'driving']"
+    },
+    {
+        "Id": "75971",
+        "Title": "Is it considered rude if I present a list of pre-translated sentences?",
+        "Body": "<p>I am about to visit Spain, mainly Malaga, Barcelona and Madrid. The problem is I do not speak Spanish at all. </p><p>I am thinking to prepare a few pre-translated sentences in Spanish beforehand and present them to waiters, such as:</p><ul><li>May I ask how I can reach xxxxxxxx?</li><li>May I order a cup of black coffee?</li><li>May I ask how much this is? (pointing my finger at the same time)</li><li>May I ask how to get to xxx stadium (xxx = Real Madrid, Barcelona FC and etc)</li><li>May I ask if I can rent a car here?</li><li>Etc</li></ul><p>Is my plan considered to be rude? And how well do Spanish people speak English?</p>",
+        "Tags": "['spain', 'local-customs', 'language-barrier']"
+    },
+    {
+        "Id": "26840",
+        "Title": "How to spot fake reviews on TripAdvisor?",
+        "Body": "<p>I know that review sites like TripAdvisor have fake reviews (some hotels more than others) - how can I make sure I am looking at the 'real' reviews as using TripAdvisor can be very tricky to filter out the good from the bad.</p><p>I am going to Egypt - Sharma El Sheikh using TA to find the better hotels.</p>",
+        "Tags": "['online-resources', 'planning', 'accommodation']"
+    },
+    {
+        "Id": "119007",
+        "Title": "As of 2018, and now still, does Ryanair deny boarding to non-EU passengers who skip the landside visa check?",
+        "Body": "<p>Ryanair is notorious for requiring that all non-EU passengers go through a visa check at a landside check-in desk before their flight. However, do they actually <strong>deny boarding</strong> to passengers who ignore the visa check and proceed straight to the gate?</p><p>I'm not interested in what Ryanair's website, terms and conditions, or support agents have to say about this. The question is strictly about what's going to happen <em>in practice</em>.</p><p>I'm looking for ongoing examples, not just the 2018 ones.</p>",
+        "Tags": "['visas', 'paperwork', 'check-in', 'ryanair']"
+    },
+    {
+        "Id": "16617",
+        "Title": "How to convince airport security that I am not dangerous when having metallic parts in my body?",
+        "Body": "<p>I had an operation some time ago and now I have small screws in my shoulder which will not be removed anymore. When I decided to fly for vacation, I supposed that these will may bring me into trouble at the airport when going through the metal detector.</p><p>So I asked my doctor and at the hospital if there is any kind of \"passport\" or something similar which confirms the screws in my shoulder so that I do not get into many problems. Unfortunately, they told me such things do only exist if you get a new knee or something, not if you just have a few screws in your body.</p><p>When I flew from Vienna to Amsterdam and back, my fears were confirmed: The security staff inspected me very precise, and I had to explain them my story. Thank god I have some scars left so they believed me!</p><p>However this is not a permanent solution for the future. Is there any international \"passport\" which my doctor and hospital do not know about? If not, what else are my possibilities?</p><p>I am not that afraid when travelling within the EU, however I fear that this situation might get quite dangerous when I'm in other countries...</p>",
+        "Tags": "['air-travel', 'safety', 'health', 'airport-security', 'x-ray-machines']"
+    },
+    {
+        "Id": "131314",
+        "Title": "How to solve the language problem in Ankara, Turkey?",
+        "Body": "<p>I will start studying my Master at <a href=\"https://en.wikipedia.org/wiki/Ankara\" rel=\"noreferrer\">Ankara, Turkey</a> soon. I don't know the language and I receive strange behaviors when asking help in English:</p><p>For example, </p><ol><li><p>I start with \"Merhaba\" (\"Hello\" in Turkish) to warm up the conversation then I ask in English, but then they titter; </p></li><li><p>I start by asking \"Do you speak English?\" and the response is normally \"no\", sometimes with a little anger.</p></li><li><p>And when I directly ask my question in English, some of them try to help e.g. showing directions with hands and speaking Turkish with slow rate, but I can't get most of the conversation as I don't know the language, and a majority of people answer the question in Turkish in a wired manner that they suppose as if I am a native-Turkish-speaker. (why??!)</p></li></ol><p><em>None of the mentioned problems happen when I am inside the university.</em>  </p><p>I am supposed to live in here for at least two years. So, getting a taste of the culture and understanding the people is very important to me and I would be very much happy if I can avoid any unintentional disrespect. How can I handle this situation, especially the language problem?  </p><p>P.S. With all honestly, I am confused: On one hand, a few times I met very friendly people in Turkey I can't imagine they possibly have unkind intentions. On the other hand, the problem shouldn't be from my side because I didn't see similar behaviors traveling in neighboring countries (supposedly be similar cultures) e.g. Iran or Georgia and none of the mentioned problems happen within the Turkish university that I want to study in.     </p><p><strong><em>Edit</strong>. In the last two days I learnt some Turkish and I used it. But sadly  I received much worse reactions. Reasons can be more than I know, but the two reasons I believe are that the people don't like to hear different accents (for being a very homogeneous society) and the other is they think I am an asylum seeker that I have to learn their language. Please correct me if I am wrong but I heard from a few other foreign students felt very unwelcome unless they speak English. The comments and answers are general may not be useful for some countries like Turkey but I do appreciate any guidance written. Last word: I love Turkey even I am not feeling unwelcome. And, my BEST regards and wishes for those (even few) Turks who helped me a lot recently. Thank you. :-)</em>      </p>",
+        "Tags": "['turkey', 'language-barrier', 'english-language']"
+    },
+    {
+        "Id": "246",
+        "Title": "Are there any good, cheap bus companies to use for traveling around the western United States?",
+        "Body": "<p>A few years ago, I used to ride Greyhound for short trips, but I remember them being crammed and sometimes smelly. In the Midwest, I've learned of and used Megabus, which has seats like an airplane, outlets to plug things in, lights, air, and much more space. The best part: if I buy them early enough, I can get a several-hour trip for $10! Sadly, Megabus is not on the west coast. Is there anything at par with it over there?</p>",
+        "Tags": "['usa', 'budget', 'buses']"
+    },
+    {
+        "Id": "104716",
+        "Title": "What is the purpose of a round-trip ticket?",
+        "Body": "<p>I had assumed that buying round-trip plane tickets saves a lot of money, but lately I've been comparing prices and the round-trips I've seen are almost identical in price to just buying two one-way tickets separately.</p><p>If round-trip tickets are just supposed to be more convenient, then that benefit surely seems outweighed by the flexibility that one-way tickets give you. Not only is it easier to choose different airports for your outbound and inbound flights, but you can avoid the usual traps if you want to change something later on. I've been in situations where I've needed to change just the outbound flight and the cheapest option was to just buy a new one-way ticket but I couldn't do that because the rigidity of the round-trip ticket prevented a traveler from boarding a return flight if they didn't board the outbound flight. With a round-trip ticket, the whole thing counts as one. If you want to make one little change to one leg of one flight and you can't do it, the whole ticket is wasted. (In the same vein, it seems you also get less flexibility and almost no benefit from putting multiple passengers on the same ticket.)</p><p>So my question is this. Is convenience and a marginal (perhaps even only perceived) cost difference the only benefit to a round-trip ticket? Or is there some other purpose I'm not aware of?</p><p>EDIT Nov 3: I apologize for not considering international travel. It's been many years since I've flown outside of the US.</p>",
+        "Tags": "['air-travel', 'tickets', 'budget', 'price', 'one-way']"
+    },
+    {
+        "Id": "6467",
+        "Title": "How can I avoid being overcharged when taking a cab?",
+        "Body": "<p>I've heard that taxis will frequently scam foreigners by overcharging. How can I reduce the chance of this happening?</p>",
+        "Tags": "['tips-and-tricks', 'taxis', 'tourist-traps']"
+    },
+    {
+        "Id": "78149",
+        "Title": "How can I charge my UK electric toothbrush in the USA?",
+        "Body": "<p>In the UK electric toothbrushes and razors are usually supplied with <a href=\"https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets:_British_and_related_types#BS_4573_.28UK_shaver.29\" rel=\"noreferrer\">BS 4573</a> plugs.</p><p><a href=\"https://i.stack.imgur.com/bSNcP.jpg\" rel=\"noreferrer\"><img src=\"https://i.stack.imgur.com/bSNcP.jpg\" alt=\"shaver plug uk\"></a></p><p>What's the easiest way to charge a UK electric toothbrush in the USA? Using a BS 4573 to regular British rectangular 3 pin (BS 1363) and then a further BS 1363 to US adaptor?</p><p>Specifically, my toothbrush is the <a href=\"https://www.amazon.co.uk/gp/product/B003U9V7SC\" rel=\"noreferrer\">Oral-B Vitality Precision Clean Electric Rechargeable Toothbrush Powered by Braun</a>. Here's a photo of the base of the charger:</p><p><a href=\"https://i.stack.imgur.com/62hQx.png\" rel=\"noreferrer\"><img src=\"https://i.stack.imgur.com/62hQx.png\" alt=\"base of charger\"></a></p>",
+        "Tags": "['usa', 'power']"
+    },
+    {
+        "Id": "76135",
+        "Title": "How to make myself more visible in traffic as an EU mainland driver in the UK?",
+        "Body": "<p>I will be moving to the UK soon, Scotland to be more precise, and will be doing so with a car. A driver-sitting-on-the-left sort of car, with licence plates from an EU country (eventually I will have to switch to UK plates). The licence plate is white with black numbers and black capital letters (so typically something like ASD-098) - visibly different from a yellow UK plate. </p><p>I have never been to a left side driving country, so I will definitely be a bit clumsy first, and drive and turn slower, just to be safe. My licence plates will signal my alien origins (at least until they get switched out to local ones) to the driver immediately behind me and the one coming towards me. I tried to google other, more visible means, but when I search for related keywords, Google Images only spouts tons of Brexit-related bumper stickers at me, which wouldn't help in my case.</p><p><strong>Q:</strong> Is there some other good way to visually signal local drivers around me that hey, look here, this guy is slow and clumsy, watch out and keep your distance a bit, he's new to all this drive-on-the-left <s>madness</s> <em>thing</em>? </p><p>Some countries, for example, have standardized stickers/signs/plates for new drivers (e.g., under x years of experience), learners, cars with special tires, the handicapped, etc. I'm wondering if there's something out there for experienced drivers re-experiencing learning to drive on the <s>wrong</s> I mean the other, also completely reasonable side.</p>",
+        "Tags": "['uk', 'driving', 'automobiles', 'scotland', 'traffic']"
+    },
+    {
+        "Id": "106856",
+        "Title": "Who to complain to about the speed of airport security at Frankfurt?",
+        "Body": "<p>Usually I'm flying several times every month or two in Europe, and in the last few years I have seen that the situation at security check is worse and worse.</p><p>One week ago I had a flight via Frankfurt.  I had a connection for 1 hour and 10 minutes; my previous flight was late.  I had to run through the airport, and I was stopped at the security check. </p><p>There were only two 'doors', one for economy, the other for business and first class. Flying in economy but having short connection, I went to the business class queue.  After about 15 minutes in the line I finally got to the control (if I went to economy I suppose it would have been an hour). </p><p>There I saw a lot of agents walking around, laughing, speaking to each other, etc.  They really don't care that a lot of people can miss their flights.  I told one of them that it's not ok.  I got the response that if I didn't like something I could call the police.  I didn't have time for it as my connection was really short.  I ran to my gate and I missed my flight. </p><p>After my flight left without me, I had some other problems and forgot about this situation.  But for the next time, those security agents, who are they? Airport staff? I don't think that it's police or that they have any relation to the police.</p><p>Does somebody know where can I make a complaint next time?</p><p><strong>Update 17/12/2017</strong>: I'd like to say thank you for all answers and comments, it gives useful experience. Just a small detail: after I missed my flight I spent two days in Frankfurt until I could get another one. That's why I'm so unhappy</p>",
+        "Tags": "['airports', 'germany', 'airport-security', 'fra']"
+    },
+    {
+        "Id": "180614",
+        "Title": "Are there any other rural tramways in the world, like the Coastal Tramway in Flanders?",
+        "Body": "<p>I just learned about the Coastal Tramway in Flanders. I love the idea of taking a tram through little villages in the countryside.</p><p>Are there any other rural trams like this operating elsewhere in the world? I would be willing to orient a trip around visiting such a place, if it exists.</p><p>By tramway, I mean a rail line that runs on or near a street for at least a significant portion of its route and has at least some street-level or low-platform stops. I like trams inside of cities very much too, but that's not what I'm looking for here, in this question I ask about other rural routes.</p>",
+        "Tags": "['trains', 'public-transport', 'belgium', 'rural', 'trainline']"
+    },
+    {
+        "Id": "448",
+        "Title": "Are there cheap GPS or other navigator devices with downloadable maps for the whole world?",
+        "Body": "<p>I don't need a recommendation or a list but my knowledge of GPS and \"navi\"s and the differences between them is an utter mystery to me.</p><p>But often I'm lost in backstreets in random countries where access to something like a live Google Maps would be awesome. I absolutely cannot afford a smartphone with worldwide roaming though.</p><p>Can GPS's do what I want or am I barking up the wrong tree? If they can is it only high end ones than can?</p>",
+        "Tags": "['budget', 'gear', 'maps', 'gps-navigation']"
+    },
+    {
+        "Id": "2539",
+        "Title": "How to avoid drinking vodka?",
+        "Body": "<p>This summer, I spent some time in Moscow and St. Petersburg; I also visited a friend and his family. Their custom was to drink a lot of vodka during the meal. We, the guests, also had to drink some vodka; but obviously we'd had enough before our Russian friends. ;) But it was very difficult for us to convince them that it would be unwise for us to drink more vodka. I think, in fact, that we slightly offended them.</p><p>If I'm invited to a meal with my hosts, how can I avoid drinking a lot of vodka without offending them? I think it wouldn't be too difficult if I didn't drink at all. Then I could say that I don't drink for religious or medical reasons. But what excuse could I use if I've already started drinking and want to stop?</p>",
+        "Tags": "['health', 'tips-and-tricks', 'russia', 'culture', 'alcohol']"
+    },
+    {
+        "Id": "123392",
+        "Title": "How to wash hands if tap water is too hot?",
+        "Body": "<p>A few days ago I settled in the UK and noticed that hot tap water was not specific to Heathrow Airport. The only option in some toilets (e.g. in restaurants) is \"tooooo hot\" water. I cannot touch so hot water for even one second, otherwise it is painful.</p><p><a href=\"https://i.stack.imgur.com/y7t0X.jpg\" rel=\"noreferrer\"><img src=\"https://i.stack.imgur.com/y7t0X.jpg\" alt=\"push button tap\"></a></p><p>How can I wash my hands if hot water is the only option?</p>",
+        "Tags": "['uk', 'tap-water']"
+    },
+    {
+        "Id": "133636",
+        "Title": "What Happens when Passenger Refuses to Fly Boeing 737 Max?",
+        "Body": "<p>As most are unfortunately aware the Boeing 737 Max 8 is receiving very bad press after two fatal plane crashes in five months.</p><p><a href=\"https://www.cnbc.com/2019/03/11/chinese-airlines-ordered-to-halt-use-of-boeing-737-max-planes-caijing.html\" rel=\"noreferrer\">China suspends commercial operations of Boeing 737-8 planes</a></p><p>At the time of writing this, not all the 737 Max\u2019s have been grounded. Indeed until only a couple of hours ago Ethiopian Airlines insisted they would continue to fly the aircraft. They have since revised their position.</p><p>What recourse will a passenger who is scheduled to fly commercial on that model of plane have if they refuse to board because of safety concerns? Do airlines handle such issues under airline specific ticket contract or there exists some general global aviation rules cover such <strong>well founded fears</strong> of catastrophe?</p><blockquote>  <p><strong>well found\u00b7ed</strong> adjective (especially of a suspicion or belief) based on  good evidence or reasons.</p></blockquote><p><strong>TL;DR</strong></p><p>Methinks a well run airline like Ethiopian Airlines and major country like China both deciding to ground the aircraft based on two catastrophic events in a short period of time fits the textbook definition of well founded. Catastrophic plane crashes are not a dime a dozen.</p><p><strong>UPDATE</strong></p><p>Global civil aviation authorities have banned all flights using the aircraft, <a href=\"https://www.nytimes.com/interactive/2019/03/11/world/boeing-737-max-which-airlines.html\" rel=\"noreferrer\">everywhere</a>. The issue about the fear not being well founded is dead in the water, kaput.</p>",
+        "Tags": "['tickets', 'safety', 'aircraft']"
+    },
+    {
+        "Id": "168465",
+        "Title": "Are there (small, pod) hotels for single people in Western countries?",
+        "Body": "<p>In general, when traveling, most hotels are around ~100-150 a night if not more (especially in larger cities).  In places like Japan and Singapore, there are pod hotels meant for single travelers/those on a budget.  Is there such an equivalent in Western nations like the USA, even in larger cities like NYC?  The closest I could find were hostels, which definitely seem cheaper than a standard hotel room, but I'm worried about not having as much privacy.  I've also seen hotel rooms with slightly reduced space, but seem to be just as expensive as a standard hotel room.  Are there any other alternatives that I may not be aware about?</p>",
+        "Tags": "['hotels']"
+    },
+    {
+        "Id": "53782",
+        "Title": "Giving First Aid in the USA",
+        "Body": "<p>I am a qualified first-aider in the UK and as such would automatically stop to give aid to any accidents and emergencies I saw. I was watching a US show on the TV the other night where someone was arrested for giving First Aid because they were not licensed correctly. </p><p>So my questions are: Is this correct? If so, should I not do anything at an accident scene or is there guidance as to what is acceptable? I tend to travel in the US and Canada so that is mainly where I am asking advice on, but would be interested in other countries as well.</p>",
+        "Tags": "['usa', 'legal', 'health']"
+    },
+    {
+        "Id": "43593",
+        "Title": "How much cash am I supposed to prepay at gas station in the US?",
+        "Body": "<p>In the US (and probably Canada as well), it is possible to pay at a gas station either with a credit card often with a fee (in the US) or cash. If I pay cash, gas stations often require to prepay for the gas.</p><p>However, I always wonder how much I should prepay. I suppose that people owning a car know how much filling the tank is worth. But I do not own a car and sometimes rent a car to visit the US, and each car has different fuel consumption. I usually estimate how much 100km is worth in terms of fuel and prepay close to the estimated amount and it just works.</p><p>But what is the expected behaviour? Am I supposed not to fill my tank entirely every time? Can I prepay a large amount and ask for the difference between what I prepaid and what I filled? Could I pay a way larger amount when i don't know (when the oil price is low, prepaying 40 or 60 USD might be seen as way too much). This question might sound a bit weird or obvious to some, but every time I rent a car I am wondering what the etiquette is.</p>",
+        "Tags": "['usa', 'money', 'automobiles', 'etiquette']"
+    },
+    {
+        "Id": "6815",
+        "Title": "Is there any United States slang I should avoid in the UK or Ireland?",
+        "Body": "<p>We'll be spending a couple weeks this summer in the UK (Scotland and London), then a week in Ireland.  Is there any slang common in the United States that we be best avoided in either country?  For example, 'fag' is commonly used in the UK for cigarettes, but it's considered a slur in the US.</p>",
+        "Tags": "['usa', 'uk', 'culture', 'ireland', 'american-english']"
+    },
+    {
+        "Id": "74404",
+        "Title": "Is there a website listing the location of all the Windows 10 lock screens?",
+        "Body": "<p>Windows 10 has an extensive collection of lock screen photos, many of which have <a href=\"https://travel.stackexchange.com/questions/67684/where-was-this-photo-taken-windows-10-lock-screen\">prompted a question</a> here on Travel.SE.</p><p>Is there a website which lists the location of all of these photos? I imagine Microsoft has purchased an official license, so they should have a record about the photographer and the place where the photo was taken.</p>",
+        "Tags": "['online-resources', 'where-on-earth', 'lock-screens']"
+    },
+    {
+        "Id": "76453",
+        "Title": "Celebrating Halloween in Austin, TX, USA",
+        "Body": "<p>As a Dutch citizen we don't really celebrate Halloween. In movies etc I've seen people go 'Trick or Treating' and go to costume parties. We're both adults, but would love to go Trick or Treating or at least witness kids do this. So we were thinking of staying in an Airbnb away from the heart of the city.</p><p>What would the best way be to celebrate Halloween in Austin?</p><p>Would this be a good thing to do?</p><p>How is this holiday typically celebrated by adults?</p><p>How about closing hours of shops, bars etc?</p><p>Is there anything I need to know about this holiday?</p>",
+        "Tags": "['events', 'austin']"
+    },
+    {
+        "Id": "68259",
+        "Title": "When and why do people clap/applaud after a plane lands?",
+        "Body": "<p>On a recent flight to Romania, the whole flight erupted with applause once we'd landed.  This wasn't a \"difficult\" flight - no turbulence, delays, or hijackings.  Just a bog standard flight.</p><p>On the return flight to London, no one applauded.</p><p>However, when I flew to and from Jamaica lots of people applauded.  Again, a fairly routine flight.</p><p>Are there traditions in some countries around clapping?  Can airline staff predict who is likely to applaud?</p>",
+        "Tags": "['air-travel', 'local-customs']"
+    },
+    {
+        "Id": "131761",
+        "Title": "An American driving in Europe -- what to learn?",
+        "Body": "<p>I've been driving over 20 years, but never outside the US. European driving is quite different, I hear, both rule of the road and other drivers' habits. If I was to drive in Europe what should I learn and how? Is it possible to take a \"European Driving\" course while still in US, so that I would arrive to Europe ready to rent a car on the 1st day? By \"Europe\" I mean continental EU, Germany and neighbors, not the left-side-of-the-road UK.</p>",
+        "Tags": "['europe', 'driving', 'driving-licenses']"
+    },
+    {
+        "Id": "17077",
+        "Title": "Is cycling in Tokyo safe?",
+        "Body": "<p>I have booked a hotel in Tokyo near the JR Ueno train station and it offers bike rental. I know that around the station there are various attractions like Ueno Park and temples of Asakusa. I thought I might want to rent a bike and visit all the neighbouring sites in one day. </p><p>I was wondering whether cycling in Tokyo, and especially in Taito area, safe? Are there cycle paths and in general is Tokyo a 'bicycle-friendly' city? Are there any rules or advice a cyclist should remember while riding and parking a bike on the street? (I cycle regularly in Edinburgh, UK)</p>",
+        "Tags": "['safety', 'bicycles', 'tokyo']"
+    },
+    {
+        "Id": "137989",
+        "Title": "How do I minimise waste on a flight?",
+        "Body": "<p>I'll be taking several long-haul flights over the next month. From previous experience I know I'll probably be getting a fair bit of single-use plastic. I am keen on minimising waste, particularly plastic. In my daily life I do this by avoiding anything wrapped in plastic - if it's absolutely unavoidable, I try to find a way to reuse it.</p><p>On a flight however, it seems like my options are very limited. I've thought about bringing my own cutlery, but I'm concerned the single-use cutlery provided will just get thrown out anyway. There's also the plastic coverings, which are probably recyclable, but I can't recall seeing them being separated from the general rubbish. There's probably things I haven't thought of as well.</p><p>What are some things I can do minimise the waste I am responsible for given that I'm on a flight? I also want to support organisations that are taking waste minimisation seriously. Are there airlines that are taking a pro-active approach to waste minimisation?</p><p>Edit: Thank you everyone for the answers. The general trend is order-of-magnitude arguments essentially saying if you take the flight, any other concern is insignificant. I want to make a few comments:</p><p>Firstly, no one has provided any data quantifying the environmental impact of 1kg CO2 emissions to (say) 1kg of single-use plastic that goes to landfill. Without this data then the arguments are heuristic at best (although I don't doubt which way the conclusion will fall).</p><p>Secondly, CO2 off sets are a thing, and if the companies providing them are to be believed, then your global warming contribution is negated. If that is the case, then the next thing to work on is the waste you generate. </p>",
+        "Tags": "['air-travel', 'in-flight-services', 'environment']"
+    },
+    {
+        "Id": "66328",
+        "Title": "USA, travelling with more than USD 10,000",
+        "Body": "<p>I will be leaving for USA in a little while, and I plan to carry around USD 12,500. I will be visiting my son there, and I will hand over that cash to him then.</p><p>As I understand, if the amount is more than USD 10,000 you must declare it, using <a href=\"https://www.fincen.gov/forms/files/fin105_cmir.pdf\" rel=\"nofollow noreferrer\">this form</a>.</p><p>However, it states</p><blockquote>  <p>Each person who receives currency or other monetary instruments in the  United States shall file FinCEN Form 105, within 15 days after receipt  of the currency or monetary instruments, with the Customs officer in  charge at any port of entry or departure or <strong>by mail with the  Commissioner of Customs, Attention: Currency Transportation Reports,  Washington DC 20229.</strong></p></blockquote><p>After I have handed the money over to my son, will my son need to declare it? Also, what other documentation would I be needing if the cash exceeds USD 10,000?</p><p>I have already searched through <a href=\"https://travel.stackexchange.com/questions/24659/maximum-cash-allowed-when-travelling-to-the-us?newreg=2cbfec9aedd347ab9f348c6cc452be8b\">this link</a>, and haven't found what I am looking for.</p>",
+        "Tags": "['usa', 'customs-and-immigration', 'money']"
+    },
+    {
+        "Id": "17180",
+        "Title": "Is there a tool to find all nonstop flights to one destination?",
+        "Body": "<p>Assume that you want to go to Oslo. You want to aggregate all airports that are 100 kilometres from Oslo. This includes at least Gardemoen, Rygge and some others probably.</p><p><strong>Is there any service that tracks all flights that go there?</strong></p><p>Similarly for any other city.</p>",
+        "Tags": "['air-travel', 'online-resources']"
+    },
+    {
+        "Id": "115486",
+        "Title": "Where can I find publicly accessible paternoster elevators?",
+        "Body": "<p><a href=\"https://en.wikipedia.org/wiki/Paternoster_lift\" rel=\"nofollow noreferrer\">Paternosters</a> look fun, but (as far as I know, at least in Western Europe) they have almost all been replaced by regular elevators for safety reasons.</p><p><strong>Are there any publicly-accessible paternosters left I can ride in?</strong></p><p>Wikipedia mentions a few, but they seem to be in private buildings.</p><p>If you can give a site where I can find them that would be appreciated.</p><p><a href=\"https://i.stack.imgur.com/6t5n9.gif\" rel=\"nofollow noreferrer\"><img src=\"https://i.stack.imgur.com/6t5n9.gif\" alt=\"enter image description here\" /></a>(Animation from Wikipedia by RokerHRO; CC license)</p>",
+        "Tags": "['where-on-earth']"
+    },
+    {
+        "Id": "39712",
+        "Title": "What kind of things can you take from a hotel?",
+        "Body": "<p>Hotels normally provide a big amount of sets (well, depending on the quality, but however, many!) that can help you feel more comfortable there.</p><p>So for example you can get <em>towels, slippers, candies, pens, shampoos, shaving kits, sponges, ...</em></p><p>The same in the self-service breakfast: <em>pastries, bread, ...</em></p><p>They are meant to be used during your stay. However, they can be provided in such an amount that there are some extra by the time you leave... and make you feel like taking some back home.</p><p>My general rule is to take those things that I used but didn't finish. However, sometimes I may be tempted to take the brand new stuff lying there before I close the door for the last time.</p><p>So the question that pops is: what kind of things is it <em>correct</em> to take from hotels and what is it not recommended? Else, what items may differ from country to country?</p>",
+        "Tags": "['food-and-drink', 'accommodation', 'hotels', 'tips-and-tricks', 'cultural-awareness']"
+    },
+    {
+        "Id": "148258",
+        "Title": "Can I exit and reenter a UK station while waiting for a connecting train?",
+        "Body": "<p>I will soon be making a journey by train that will require me to wait for around 90 minutes in a relatively small station. I would like to leave the station and wander into the nearby town during this time, but this would require me to exit through the ticket barriers and then reenter again. Is this possible? And if so does it require a particular type of ticket?</p><p>I will be travelling on Greater Anglia services. I intend to use a mobile e-ticket through the TrainLine app but I am willing to use another ticket provider if that will make the process easier. My ticket type will be an off-peak open return ticket.</p>",
+        "Tags": "['uk', 'train-stations']"
+    },
+    {
+        "Id": "131933",
+        "Title": "Orienting oneself after exiting an underground station",
+        "Body": "<p>I have a terrible sense of direction and frequently struggle to know which way to head when I exit an underground station. I can use the map on my phone of course (though there are some places this wouldn\u2019t be safe), and if it\u2019s not nighttime or cloudy, the position of the sun helps, but I\u2019moften 90 degrees or more out in my reckoning.</p><p>What tactics can I adopt to help me orient myself for my ongoing travel (on foot)?</p>",
+        "Tags": "['public-transport', 'tips-and-tricks']"
+    },
+    {
+        "Id": "148321",
+        "Title": "What can I wear to avoid getting frisked and crotch searched by TSA at the airport?",
+        "Body": "<p>A year ago, traveling through an airport in the United States, I did the usual removal of belt and shoes to get through the TSA checkpoint to enter the terminal.</p><p>I typically wear relaxed fit jeans. The problem is that when my belt is off, my jeans start to sag.</p><p>Next up was to get scanned by the human x-ray machine. I can't remember the specifics, but something went wrong here.</p><p>Coming out of the machine, the TSA agent spoke a canned response of how the machine detected an object in my pants. He asked if I was carrying anything and then told me he would have to do a pat-down.  To make a long story short, I got frisked right there in the line including him grabbing my crotch.  And then I was on my way.  It was somewhat humiliating, but I got over it.  But it is not an experience I would care to repeat.</p><p>I'm traveling again this week through the same airport. What's the best thing I can wear to avoid having a similar incident? I've seen folks go through the airport lines in gym shorts, sweatpants, or even pajamas.  I'm not sure if looser or more tight fitting pants improves my chances. I've got some different pants I could try to, or could buy something different.</p><p>What would you wear to avoid the x-ray machine setting off a false positive?</p><p>I'm an average looking man.</p><hr><p><strong>Update</strong></p><p>Thank you for all the great answers.</p><p>TLDR: <strong>Pull up those pants and empty those pockets</strong> is what worked for me through the terminal entrance this time. Although the officer needed to do a pat-down hand sweep over my waist, it was completely within bounds and appropriate. At the return trip airport, they waved most folks through the metal detector instead of the wave scanner. I do believe certain airports are more efficient at getting people into the terminal.</p>",
+        "Tags": "['usa', 'air-travel', 'airport-security', 'tsa', 'clothing']"
+    },
+    {
+        "Id": "2923",
+        "Title": "What one-day trips are available from Zurich (Switzerland)?",
+        "Body": "<p>I'm looking for some suggestions for one-day trips from Z\u00fcrich (Switzerland). It isn't limited to Switzerland, but the place should be reachable within one day.</p><p>I'm particularly interested in cities and outdoor activities. I'm living in Switzerland and I already did a lot of one-day excursions, but I'm running out of ideas. So things like go skiing or go shopping isn't the kind of suggestion I'm looking for.</p>",
+        "Tags": "['activities', 'switzerland', 'cities', 'day-trips', 'zurich']"
+    },
+    {
+        "Id": "35695",
+        "Title": "Languages spoken in the Netherlands",
+        "Body": "<p>I'm preparing a trip to Amsterdam. I know that the official language is Dutch but I have read that 90% of population speak English. So, Is it enough to speak English or should I learn some basic expressions for communicating on restaurant, shop, and asking for directions, etc?</p><p>I'm asking this because I live in a tourist zone in Spain, but most of people here don't  speak English (maybe a little bit). We sometimes feel annoyed when tourists pretend that we spoke their language.</p>",
+        "Tags": "['netherlands', 'amsterdam', 'language-barrier']"
+    },
+    {
+        "Id": "2993",
+        "Title": "Additional cabin handbag on flights",
+        "Body": "<p>It's quite common, that in addition to cabin size hand baggage you can take also smaller bag like handbag or small laptop case to the plane.<br>I'm interested in knowing if someone hasn't been allowed to take average size laptop bag as an additional \"handbag\". </p><p>Is this usual?</p>",
+        "Tags": "['air-travel', 'luggage', 'hand-luggage']"
+    },
+    {
+        "Id": "965",
+        "Title": "Using an Amazon Kindle onboard a flight?",
+        "Body": "<p>Airlines don't let you use electronic devices when the plane is taking off/landing. Let's suppose I have a Kindle 3, and I have turned off wireless (i.e. both Wifi and GSM/3G is off). </p><p>Since you don't need power or the battery to read what's on the screen (the magic of eInk displays), it's technically 'off' when I'm reading it, right? </p><p>Can I still use it when the flight is taking off? Have any national aviation authorities passed judgement on this?</p>",
+        "Tags": "['air-travel', 'safety', 'gear']"
+    },
+    {
+        "Id": "3065",
+        "Title": "How to fly on the new Boeing 787 Dreamliner?",
+        "Body": "<p>Sooo, the new <a href=\"http://edition.cnn.com/2011/10/25/travel/dreamliner-features/index.html?hpt=hp_bn10\">Dreamliner has had its inaugural flight</a>.</p><p>The first flight was from <a href=\"/questions/tagged/tokyo\" class=\"post-tag\" title=\"show questions tagged 'tokyo'\" rel=\"tag\">tokyo</a> to <a href=\"/questions/tagged/hong-kong\" class=\"post-tag\" title=\"show questions tagged 'hong-kong'\" rel=\"tag\">hong-kong</a>.</p><p>In a bit of competitive fun, a friend and I are trying to beat one another to ride it (he beat me to the A380 - I've still not been on one).</p><p>Is there a list of the routes as they open up for it? Not that I'll be able to do it any time soon, but nothing like a bit of forward planning... ;)</p><p>EDIT</p><p><a href=\"http://www.engadget.com/2011/01/20/boeing-787-dreamliner-delayed-again-expectations-still-sky-high/\">There are about 850 pre-orders</a> for the plane, so with @Roflcopter's 328 below, I'm still missing over 500.  More to be found!</p>",
+        "Tags": "['air-travel', 'airlines', 'boeing', 'aircraft']"
+    },
+    {
+        "Id": "1014",
+        "Title": "How can I avoid or minimize jet lag on flights?",
+        "Body": "<p>From my personal anecdotal experience, I've found it worse when travelling east around the globe.  I also tend to stay awake most if not all of the flight, so sleeping time doesn't tend to matter as the flights from London to NZ are minimum 28 hours.  Shorter flights you can arrange around daylight hours to reduce this, but otherwise, there must be better strategies to help out with the tiredness/not sleeping.</p><p>UPDATE:</p><p>So I was fine despite nearly 48 hours of non-sleep from Mongolia to London, up the next 3 days at 8am to do stuff. However, the <em>second</em> week has been awful, sleepless nights and erratic sleepiness. Any theories?</p><p><em><strong>Also see: <a href=\"https://travel.stackexchange.com/questions/2841/how-do-you-prepare-for-long-haul-flights/\">How do you prepare for long haul flights?</a></strong></em></p>",
+        "Tags": "['air-travel', 'health', 'tips-and-tricks', 'long-haul', 'jet-lag']"
+    },
+    {
+        "Id": "3129",
+        "Title": "Do all American ATMs charge an extra fee for cash withdrawals on a foreign card?",
+        "Body": "<p>I've just gone to take some cash out of an ATM (Cash Machine) in Seattle. I visited about half a dozen in the end, and every single one wanted to charge me an extra fee (typically about $3) for the cash withdrawl on my (non-US) card. This was at bank ATMs in the centre of town, at their branches, rather than in a supermarket or somewhere.</p><p>In the end I had to give up and let one of them charge me (I needed cash!), but it was both unexpected and rather annoying. Having gone to the trouble of getting a card that wasn't going to charge me lots to use it abroad, I'm instead hit with fees from the owner of the cash machine.</p><p>Was I really unlucky to only find ATMs that wanted to charge me as a foreign user, or do all American ATMs do that? And if only some do, what banks should I be trying to find to avoid being hit with the fee?</p>",
+        "Tags": "['usa', 'money', 'payment-cards', 'fees-and-charges', 'atms']"
+    },
+    {
+        "Id": "5193",
+        "Title": "Best way to make my ears pop?",
+        "Body": "<p>What is the best way to make my ears pop when landing on a plane? The hold-your-nose-and-pitch method is very painful; are there any other methods to pop ears?</p>",
+        "Tags": "['air-travel', 'health', 'tips-and-tricks']"
+    },
+    {
+        "Id": "83042",
+        "Title": "Why is onboard/inflight shopping still a thing?",
+        "Body": "<p>There's an inflight shopping magazine in the pocket of the seat in front of you - that no one reads.</p><p>The crew come through with a trolley of merchandise - that nobody buys.</p><p>There are special offers broadcasted over the PA - that aren't being listened to.</p><p>It was pretty cool like 20 years ago, but I don't really see the point anymore; why is onboard/inflight shopping still a thing?</p>",
+        "Tags": "['air-travel', 'shopping', 'duty-free']"
+    },
+    {
+        "Id": "85106",
+        "Title": "When to use the emergency brake in a train?",
+        "Body": "<p>In almost every train there is an emergency brake.</p><p><a href=\"https://i.stack.imgur.com/jrVPC.jpg\"><img src=\"https://i.stack.imgur.com/jrVPC.jpg\" alt=\"Emergency break\"></a></p><p>I was wondering in which scenarios a passenger would need to pull the emergency brake.</p>",
+        "Tags": "['trains', 'safety']"
+    },
+    {
+        "Id": "70804",
+        "Title": "How do you use a traditional hot-air hand dryer so your hands are actually dry afterwards?",
+        "Body": "<p>In many locations around the world, you can see dryers like this<sup>1</sup>:</p><p><a href=\"https://i.stack.imgur.com/C69vD.jpg\" rel=\"noreferrer\"><img src=\"https://i.stack.imgur.com/C69vD.jpg\" alt=\"enter image description here\"></a></p><p>These dryers are being phased out in favor of air-jet dryers that involve inserting your hand in an opening. However, many locations still use dryers like the one above.</p><p>I know the basic method to operate them: press the button, rub your hands underneath, repeat until dry or frustrated. Personally, I find them a pain to use:</p><ol><li>I have no idea how to hold my hand underneath them or what to do with them;</li><li>The air that comes out is often either too hot or too cold;</li><li>nearly always, the period during which the air comes out is way too long.</li></ol><p>In the end, my hands are still somewhat wet and feel slightly hot from the overheated air, and I feel just frustrated in general at the general uselessness of the things. I sometimes even resort to just wiping my hands on my clothes, which is obviously not beneficial for anyone.</p><p>So, how do you use these so your hands are actually dry afterwards? Is there some kind of trick to using these that doesn't involve wetting your clothes or running around with wet hands afterwards? </p><hr><p><sup><sup>1</sup> source: <a href=\"http://www.restroomdirect.com/World-Dryer-Model-A-hand-dryers.aspx\" rel=\"noreferrer\">http://www.restroomdirect.com/World-Dryer-Model-A-hand-dryers.aspx</a></sup> </p>",
+        "Tags": "['tips-and-tricks', 'local-customs', 'hygiene']"
+    },
+    {
+        "Id": "146606",
+        "Title": "What exactly is a marshrutka (\u043c\u0430\u0440\u0448\u0440\u0443\u0442\u043a\u0430)?",
+        "Body": "<p>Recently I was in Nizhny Novgorod (\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434). Some Russians said there are two types of buses there - \"normal buses\" and marshrutky (\u043c\u0430\u0440\u0448\u0440\u0443\u0442\u043a\u0438). From what I understood, marshrutky are privately owned (not by the city) and are more \"dangerous\" (but they did not explain why). From what I saw from the outside, both types had \"normal bus stops\" and looked similar (in fact, some Russians could not tell if one incoming bus was a bus or a marshrutka).</p><p>In speech, some Russians clarified exactly that they have to take a marshrutka (and not a bus) each day. In my city, we also have private buses - but they are not too different from normal buses, so people would just say \"bus\". This leads me to believe that the difference in Russia (or in Nizhny Novgorod) between the two types is bigger.</p><p><strong>What is a marshrutka?</strong> What is the difference from a normal bus? And why are they dangerous?</p>",
+        "Tags": "['russia', 'shared-taxis']"
+    },
+    {
+        "Id": "44211",
+        "Title": "Is it true that people \"can just take all the luggage off the airport conveyer belt and leave with it.\"?",
+        "Body": "<p>\"They don't check that it's yours at the door\"? According to the mouse-over text for this XKCD comic strip:</p><p><a href=\"http://xkcd.com/1494/\" rel=\"noreferrer\"><img src=\"https://imgs.xkcd.com/comics/insurance.png\" title=\"LIFEHACKS: You can just take all the luggage off the airport conveyer belt and leave with it. They don't check that it's yours at the door!\" /></a></p><p>That's scary. I wonder what are the chances of getting your luggage stolen (from the conveyor belt, not lost by the airways company).</p>",
+        "Tags": "['air-travel', 'luggage']"
+    },
+    {
+        "Id": "154808",
+        "Title": "Covid-19 virus day by day chart?",
+        "Body": "<p>Do you know any website(s) where I could check how many COVID-19 cases Italy had 10 days ago?</p><p>Let me explain: We are travelling to the Dominican Republic at the end of this month with transfer in Germany (Frankfurt). At the start of this week, my country (Slovakia) banned all flights to and from Italy.</p><p>So I would like to check how many cases were there in Italy about 10 days ago, to maybe predict the future cases in Germany (possibility that all flights to Germany will be banned too). At this moment, our travel agency doesn't want to cancel our trip, and neither do we, because we would lose 80% of our money.</p>",
+        "Tags": "['event-based-effects', 'covid-19']"
+    },
+    {
+        "Id": "5312",
+        "Title": "How to successfully haggle / bargain in markets",
+        "Body": "<p>While I've done quite a bit of travel now and back myself to handle situations when it comes to border guards, sorting accommodation and / or transportation, one thing I still struggle to come to terms with is haggling in the markets, be it for food, clothing or other.</p><p><img src=\"https://i.stack.imgur.com/FImXq.jpg\" alt=\"Image of haggling in a market\"></p><p>Image \u00a9 Peter Morgan, 2014 <a href=\"http://www.flickr.com/photos/pmorgan/62563356\" rel=\"noreferrer\">http://www.flickr.com/photos/pmorgan/62563356</a></p><p>What is the best way to go about this? I'm generally either worried I'll offend them, or that they're trying to rip me off anyway, so it's a weird combination of awkwardness inside my head ;)</p>",
+        "Tags": "['money', 'culture', 'shopping', 'haggling']"
+    },
+    {
+        "Id": "1224",
+        "Title": "Tactics to avoid getting harassed by corrupt police?",
+        "Body": "<p>In Uzbekistan I was stopped, searched and questioned six times in one day.</p><p>At the border with Tajikistan, one official tried hiding my paperwork to elicit something from me.</p><p>In Kyrgyzstan, I was physically harassed and detained by the police, and about US$30 taken while they searched everything on me and a Dutch backpacker I was going to get food with.</p><p>I'm not particularly dodgy looking - it's happening to a lot of backpackers I meet.  Tourists are apparently a prime target for corrupt officials.</p><p>Any suggestions or tactics for avoiding these occurrences?  Aside from carrying only photocopies of your passport so that they can't hold your passport ransom, I've not heard many successful tips...</p>",
+        "Tags": "['safety', 'tips-and-tricks', 'local-customs', 'officials', 'corruption']"
+    },
+    {
+        "Id": "25804",
+        "Title": "What should I do with my expired passport?",
+        "Body": "<p>I recently renewed my passport, and have a shiny new one. When renewing, I sent in the old one as proof of citizenship/identity, but was surprised that, along with my new passport, the old one was sent back - with a few holes punched in it to verify its 'uselessness'.</p><p>Most advice I can find re: holding on to expired passports mainly advises doing so in order to use them for the exact purpose that I used mine; but beyond that (since I have a new passport, which will someday be expired), is there any reason to hold on to the old one? If not, are there any particular precautions I should take in disposing of it beyond ensuring that the page with my identity is torn out and shredded/cut into tiny pieces to avoid identity theft?</p><p>(If it's relevant, mine is a US passport)</p>",
+        "Tags": "['passports']"
+    },
+    {
+        "Id": "177363",
+        "Title": "Why don't American traffic signs use pictograms as much as other countries?",
+        "Body": "<p>Driving across the United States, I noticed that many signs contain words and actions to do or not to do, rather than pictograms. In many (maybe most) countries, in Europe and also in the neighbor Canada, I remember that most traffic signs use pictograms. I suppose that they are easier to memorize and figure than words.</p><p>I should say I am also surprised of that given that the US doesn't have an official language (and in some states, there are multiple official languages, not just English), many signs assume that drivers can read English.</p><p>Examples of such signs:</p><ul><li>Do not pass</li><li>Signal ahead</li><li>No left/right turn</li><li>Dead end / Cul-de-sac (some other countries also use a word, though)</li><li>Click it, or ticket (for the seatbelt, mostly an ad campaign though)</li></ul>",
+        "Tags": "['driving', 'language-barrier', 'road-signs']"
+    },
+    {
+        "Id": "103662",
+        "Title": "How to survive a timeshare promotional trip?",
+        "Body": "<p>Earlier this week my fianc\u00e9 called Hilton to change an existing reservation and in the process was roped into booking a 3-night stay in Orlando for $99, as long as he agrees to sit through a 2-hour presentation. They say there are no blackout dates. It's a great deal, but I am always skeptical of these timeshare promotional trips. Searching online, it seems like <em>many</em> people have had bad experiences with these types of trips and consider them a scam. Common complaints are aggressive marketing tactics, hidden fees, and \"gotchas\" in the contract that void the promotional price.</p><p>Seeing as this trip is already paid for and non-refundable, we are very likely to take it. I trust Hilton much more than I do many other timeshare companies, but I am still very wary. <strong>How can we get through this trip while avoiding spending more than what we agreed to?</strong> In particular I'm looking for common hidden fees, things that would void our discounted price, and ways to get through the marketing pitch without purchasing anything (though that last one is likely off-topic here). I know you can't tell me what's in my contract, but I want to know what types of things I should be looking for or asking about.</p><p><sub>While my situation is specifically with Hilton Grand Vacations, I'm looking for advice that applies to timeshare promotional trips in general.</sub></p>",
+        "Tags": "['accommodation', 'fees-and-charges']"
+    },
+    {
+        "Id": "58614",
+        "Title": "Any tips for street parking in San Francisco?",
+        "Body": "<p>I'm going to SF for a couple of days as a part of a road trip and would like to only street park. There's <a href=\"http://www.arcgis.com/home/webmap/viewer.html?webmap=f013a14b88ce4d9b85383404a330252b\" rel=\"noreferrer\">a map of permit parking zones</a> and I assume that everything that is not colored on the map is regular street parking. (I know, there are probably limitations like 72-hour one etc, but I'm staying in the city for shorter than that.):<a href=\"https://i.stack.imgur.com/TMSmP.jpg\" rel=\"noreferrer\"><img src=\"https://i.stack.imgur.com/TMSmP.jpg\" alt=\"enter image description here\"></a></p><p>My hotel is somewhere around Union Square (in between zones R, C and U on the map) and I would like to try to park my car somewhere close by once I arrive and switch to walking because I don't need a car to get around there. (It's ok if I need to re-park in 24 hrs, but more than that would be too much trouble.)</p><p>So the question is do I need to know anything in particular about SF street parking that might not be obvious for people from other US cities? (Apart from carefully reading signs.) Any hacks or tricks? Is it safe to leave your car on a street for a couple of days? Etc.</p>",
+        "Tags": "['driving', 'automobiles', 'tips-and-tricks', 'california', 'san-francisco']"
+    },
+    {
+        "Id": "58653",
+        "Title": "Passing through airport security with autism",
+        "Body": "<p>I am a young adult with autism (Asperger's to be precise). While there are many resources on how to travel with kids with autism, resources on how to do so if you have it yourself are rare to nonexistent. </p><p>Anyway, I have a lot of trouble with security checks. The fact that I have to separate from my things (including my plush, which helps me in stressful situations), go through a scanner and pick up my things again before someone runs off with them completely stresses me out. I feel extremely pressured by the people behind me and it ends up being a very uncomfortable experience.</p><p>I have a couple countermeasures currently. I organise my bags at home, so I only need to take my laptop out. I make sure there is nothing in my pockets beforehand and I make sure I wear a 2 piece outfit. Nevertheless, it still is a terrible experience. Going through currently takes more energy from me than any other part of a trip. Is there anything I can do to make this a smoother experience? </p><p>I hold a Dutch passport. I frequently visit the UK and somewhat rarely (once or twice a year) other countries. </p>",
+        "Tags": "['safety', 'airport-security', 'tips-and-tricks', 'accessibility', 'autism']"
+    },
+    {
+        "Id": "144690",
+        "Title": "Are sweatpants frowned upon on flights?",
+        "Body": "<p>I was planning on wearing sweatpants on my flight from East Asia to East Europe, but my parents shut me down, saying that it's not looked upon kindly and people wearing sweatpants are usually a bit of a gangster people. This seems a bit weird for me, as I see sweatpants as just comfortable clothing and you wear your comfy clothing on flights. </p><p>And I looked up \"Airport queue\" to look at what people wear and for men, jeans does seem to be the prevalent option as my parents said, but women seem to mostly wear yoga pants, which I see as social equivalent of sweatpants.They also reminded me, that I'm not going to Europe for sightseeing, but studying, so my choice of clothing should be something that the border agent will not likely see as \"gang\" and hold me down.</p><p>What do you guys think?For the record, I'm a man.</p>",
+        "Tags": "['europe', 'clothing', 'etiquette', 'eastern-europe']"
+    },
+    {
+        "Id": "70970",
+        "Title": "A swim to die for \u2014 where in the world can I do one?",
+        "Body": "<p>Several years ago I entered the <a href=\"http://www.escapealcatraztri.com/\" rel=\"noreferrer\">Escape From Alcatraz triathlon</a> as I wanted to swim from Alcatraz to San Francisco.</p><p><a href=\"https://i.stack.imgur.com/xfSIL.jpg\" rel=\"noreferrer\"><img src=\"https://i.stack.imgur.com/xfSIL.jpg\" alt=\"enter image description here\"></a></p><p><em>Source: <a href=\"http://www.dolphinclub.org/swimming/escape/\" rel=\"noreferrer\">http://www.dolphinclub.org/swimming/escape/</a></em></p><p>I was scheduled to go on a work trip at the time and this worked out perfectly. Unfortunately the trip was cancelled and I never got to do it. I subsequently entered a couple of times later but never made it through the random entry cut; apparently it's heavily over-subscribed every year.</p><p>Obviously <em>the</em> major \"big-swim\" is a channel swim.</p><p>But really that just looks like torture and costs the price of a large brand-new car and you have to book it 5 years in advance.</p><p>Question: Has anyone got experience (whether directly or via friends/colleagues) of some <em>reasonable</em> but not wallet-emptying swimming event that you you would want to tell your grand-children about, like swimming from one country to another or something? I don't want to train for a year (been there, done that) for some event and end up doing something that I'm just going to feel miserable doing. I'm not looking for a race, but something with other entrants would be good. I'd prefer it not to be a marathon-solo event, but just something that contains a memorable long swim as evoked in the Alcatraz photo above.</p><p><strong>Update</strong>: I don't like leaving a question with an unawarded answer so I reviewed the answers with a view to which event I would actually take part in.</p><p>The Hellespont / Bosphorus / Dardanelles swim(s) have a definite appeal. Swimming from one continent to another across shipping lanes closed just for the event sounds epic.</p><p>The Freedom swim sounds good too, but it's too cold for me. I can swim in cold water if I have to. But I don't have to. So I won't.</p><p>There were a few lake swims including the Sun Moon Lake swim which sound like they'd be enjoyable, but they don't really tick the \"to die for\" check-item. \"Only 20000 other people besides me managed to finish...\"</p><p>Some people took \"to die for\" too literally, and seemed to want to suggest something that would be the last thing I ever did...</p><p>The Rottnest swim looks amazing. A 20k swim would be a major part of my day though! Also, I'd need to organise a support boat and a qualifying swim.</p><p>Aleks G provided a pointer to the World's top 100 open water swims and I had a look through those. One of which was the Bermuda round the sound swim at (up to) 10km. The HQ for this swim is a hotel I've actually stayed at and the water temperature is 25C. Perfect.</p><p>However, I'm going to select AE's answer as accepted.</p><p>Many thanks for the great answers!</p>",
+        "Tags": "['where-on-earth', 'adventure', 'swimming']"
+    },
+    {
+        "Id": "152917",
+        "Title": "Coronavirus affected co-passenger; what to do?",
+        "Body": "<p>I am flying this week from Munich to London, and Bavaria just got the first contaminated person, who now has the Coronavirus 2019-nCoV after interacting with Chinese colleague. Two cases of the novel coronavirus have been confirmed in the UK, and the number of cases in Germany has grown. Moreover, the Coronavirus has now been declared a global health emergency by WHO.</p><p>I got a bunch of emails from SOS International and such, on what methodology I should follow to mitigate the risk of getting infected, but none of them addresses the following (hopefully extreme) hypothetical scenario:</p><blockquote>  <p>I go to my seat, and I suspect the person next to me (or in neighboring seats) has the Coronavirus related symptoms (high fever, short breath, etc.). How should I react, without being too paranoid? </p></blockquote><p>Go in the back to secretly communicate that to the flight attendant, and request a seat change? </p><hr><p>Update (Feb 2): I am now in Munich airport, and both pharmacies (before and after security check) have no typical plastic masks (sold-out). They only have some conical-sized ones. The airport does not provide masks (asked in the Information). I advise you to buy a typical plastic mask before coming to the airport.</p>",
+        "Tags": "['air-travel', 'safety', 'health', 'event-based-effects', 'covid-19']"
+    },
+    {
+        "Id": "19808",
+        "Title": "Why do people on airplanes often have tomato juice as a drink?",
+        "Body": "<p>Tomato juice seems to be a favorite drink for many travelers to have on board an airplane. I've seen this on almost every flight I've been on, but I have never noticed this same trend at ground-level.</p><p>What are the reasons for that? Is there an origin of this trend?</p>",
+        "Tags": "['air-travel', 'food-and-drink', 'factoids']"
+    },
+    {
+        "Id": "26048",
+        "Title": "How much do roof racks hurt gas mileage?",
+        "Body": "<p>I'm going on a big national car trip, and I want to increase cargo space by getting a roof rack, but I'm wondering how much the additional drag will increase my gas bill.  Is there any way to figure this out?</p>",
+        "Tags": "['budget', 'luggage', 'driving', 'automobiles', 'road-trips']"
+    },
+    {
+        "Id": "116165",
+        "Title": "How can I convince airport screeners to stop asking why I prefer pat-downs?",
+        "Body": "<p>At a London airport, a security screener ordered my granddad to the full-body scanner. As a Luddite, he requested a full pat-down. But this screener, and 3 others, kept rebuffing him:</p><blockquote><p>Screener: Why don't you just use the body scanner? What's the reason?</p><p>Granddad: I don't like technology. I prefer the pat-down please.</p><p>Screener: But most people are OK with the body scanner, even people with implanted medical device. Why make this harder for everyone?</p><p>Granddad: As I said a minute ago, I shun technology. Please pat me down.</p><p>Screener: But what's the reason? If everybody chose pat-downs, then we'd be here for days.</p></blockquote><p>This circular interrogation continued for 10 minutes. A supervisor came, but asked again the same questions for another 10 minutes. Then they asked him to await another screener, who finally arrived after 15 minutes. My granddad was too frightened to ask why they needed another screener, when 5 of them were already standing there. He passed the pat-down flawlessly.</p>",
+        "Tags": "['uk', 'legal', 'airport-security']"
+    },
+    {
+        "Id": "118236",
+        "Title": "Where can I take Chinese visa photos in the USA?",
+        "Body": "<p>I'm applying for a Chinese visa. Requirements Photo size: 48mmx33mm, width of head: 15mm to 22mm, height of head: 28mm to 33mm.</p><p>I live in Missouri. It sucks. I tried CVS, Walgreens, Walmart. Nobody can do it. All these shops offer standard US passport 2\" by 2\" photos.</p><p>What should I do?</p>",
+        "Tags": "['visas', 'china']"
+    },
+    {
+        "Id": "3560",
+        "Title": "What is the LEAST visited country by tourists?",
+        "Body": "<p>There's always lists on the most popular countries.  But in my travels, I've found going against the grain has been super rewarding - places like Chernobyl, in Ukraine, or the desert of Uzbekistan or the mountains of Tajikistan have been some of my travelling highlights.</p><p>Then reading a mostly <a href=\"http://blog.dohop.com/index.php/2011/01/18/the-least-visited-destinations-of-the-world/\">fluff piece on the least visited places in the world</a> made me wonder - and I'll need statistics to back this up please, which country has the fewest TOURISTS (that's people from other countries coming to this country for tourism) every year?</p><p>Three caveats:</p><ul><li>Antarctica is not a country (for the purpose of this)</li><li>All the soldiers entering Iraq / Afghanistan do not count as tourists</li><li>since countries come and go, ideally this would simply be the most recent statistics we can find, which is likely to be '2011' statistics.</li></ul>",
+        "Tags": "['adventure', 'extreme-tourism', 'remote-locations', 'countries', 'statistics']"
+    },
+    {
+        "Id": "7663",
+        "Title": "Am I expected to tip wait staff in Europe?",
+        "Body": "<p>I will be travelling in western Europe, and I would like to dine at the restaurants there. Am I expected to tip the waiter/ waitress? How can I tip them when I am paying the bills by credit card? Do I have to prepare some coins just for that purpose?</p>",
+        "Tags": "['europe', 'restaurants', 'tipping', 'western-europe']"
+    },
+    {
+        "Id": "85518",
+        "Title": "Rent clothing in Frankfurt / Being warm without cold weather clothing",
+        "Body": "<p>I'm travelling to Thailand on the 12th January (in a few days). I'll have a connecting flight at Frankfurt and I'll stay there for eight hours. I was planning on going out to the city to visit a couple of places and to eat as well. But, looking at the weather I saw that it will be 3\u00b0\u00a0Celsius, pretty cold, and since I'm going to the Thai beaches I'm not bringing any cold weather clothing.</p><p>Is there any kind of 'rent clothing' service in Frankfurt airport or is there anything I can do using regular clothing to keep warm?</p>",
+        "Tags": "['rental', 'clothing', 'fra', 'frankfurt']"
+    },
+    {
+        "Id": "22050",
+        "Title": "Driving through every country in Europe",
+        "Body": "<p>I'm thinking about planning a trip where I drive though every country in Europe. I know that there are people who have driven though every state in the US. There is information online about their plans, the trip, and the time it took. However I can't find much about this kind of thing in Europe.</p><p>I'm looking for strategies, other people's attempts, or successes. Driving is not necessary a requirement either, taking the train for some of it would be fine, possibly preferable.</p><p>So how would I go about it? Is there a prefered place to start? What constraints do the existence of connections (roads, trains, ferries) impose?</p>",
+        "Tags": "['europe', 'planning', 'driving', 'overland', 'countries']"
+    },
+    {
+        "Id": "146996",
+        "Title": "Norwegian refuses EU delay (4.7 hours) compensation because it turned out there was nothing wrong with the aircraft",
+        "Body": "<p>My flight from Oslo to Rome was delayed by 4 hours and 40 minutes. I submitted a request to Norwegian Air Shuttle requesting a compensation of 400 Euros under EU 261/2004.</p><p>Their reasoning for why they can not grant compensation is that while they had to inspect the aircraft for technical faults, there actually were no faults. So, they argue that this situation where they had to inspect the aircraft but actually there was nothing wrong with it <em>constitutes exceptional circumstances.</em></p><h2>Question</h2><p>In my complaints to the The Norwegian Travel Complaint Handling Body, and the EU Online Disputes Resolution, how should I most effectively argue against this logic? Are they correct that this \"inspection that found nothing\" constitutes exceptional circumstances?</p><p><hr><hr><hr></p><h2>Full text of refusal e-mail</h2><p>The full text (emphasis mine) of the response of the airline (automatically translated from the <a href=\"https://pastebin.com/C5ZpfxwA\" rel=\"noreferrer\">original Danish)</a>:</p><blockquote>  <hr>    <h1>Flight disruption information</h1>    <p><strong>Norwegian flight:</strong> DY1874 (OSL-FCO) 23.06.2019 </p>    <p><strong>Delay time:</strong> 4 hours and 40 minutes </p>    <p><strong>Reason for disruption:</strong> This flight  was <strong>delayed due to an inspection</strong> of the aircraft following a <strong>possible</strong>  <strong>technical fault</strong>. During inspection, <strong>no technical defect was found</strong>. The  aircraft was then released for operation without the need to replace  any components.</p>    <hr>    <p>Unfortunately, we are unable to meet your claim for compensation as  <strong>this departure was delayed due to exceptional circumstances</strong>. In some  cases, the passenger will be entitled to compensation when the  irregularity is due to a technical error. This is in accordance with  the judgment in C-257/14 van der Lans, where a technical error which  results in the replacement of a component can be considered to be  within the airline's control and thus give the right to compensation.  In this case, <strong>there was no technical fault and no components were replaced. The Van der Lans decision is therefore not applicable and unfortunately we cannot meet your claim for compensation.</strong>   In this case, we will reimburse the following expenses applied for:</p>    <ul>  <li>food: NOK 418,</li>  </ul>    <p>Unfortunately, we are unable to meet the request for reimbursement of  all costs as we are not responsible for these. For further  information, please see below *.</p>    <p>In order to process your claim, we need the following information to  make a bank transfer:</p>    <p>\u2022 Name of the bank \u2022 Name and address of the account holder \u2022 Account  number</p>    <p>This information can be sent by replying to this email. If you do not  have this information, please contact your bank.</p>    <p>The case will be finalized as soon as we have received all the  necessary information.</p>    <p>With best regards, Karina The Customer Relations Team</p>    <hr>    <ul>  <li>Basis for decision</li>  </ul>    <p>In the event of a cancellation or delay, we will always provide  assistance (eg accommodation, meals, telephone calls and transport)  according to EU Regulation 261/2004. In the event that a passenger  incurs such costs, in the event of a delay or cancellation, we will  reimburse within reasonable limits if such costs were deemed necessary  and specified receipt can be presented. We cannot reimburse these  costs if the passenger does not allow us to offer this kind of  assistance or if the costs arose as a result of lost connection with  Norweigan, in a separate booking number, or if the alternative  departures offered to the passenger , was not appropriate. The  Norwegian ticket will only be refunded if the flight is canceled or  the delay is over 5 hours and the passenger chooses not to travel. If  the passenger is entitled to reimbursement of the new ticket (with  Norwegian or with another company), we will only reimburse the cost of  the new ticket or the price difference between the new ticket and the  ticket with Norwegian if the Norwegian ticket is refunded.</p>    <p>Additional costs not directly linked to the service regulated by EU  Regulation 261/2004 will only be reimbursed <strong>if the reason for the</strong>  <strong>delay or cancellation is within our control</strong>. If we believe that the  passenger has not done enough to ensure that the pre-booked  arrangements can be completed (eg relocations, accommodation, events,  etc.), we will not be able to cover these costs even if the delay or  cancellation is within our control . Likewise, we cannot cover  consequential non-documented damages, expenses that would have arisen  independently of the irregularity, or unnecessary legal assistance to  determine such claims. Under the Montreal Convention and the decision  of the Norwegian Aviation Complaints Board in case number 1222 / 14F,  the same conditions apply to reimbursement of consequential damages,  provided that the airline has made every effort to avoid the technical  problems that caused the delay or cancellation of the flight. Under  Article 12 of the EU Regulation 261/2004, additional costs that are  not directly related to the service regulated by the regulation may be  deducted from standard compensation. For more information about your  rights, visit www.norwegian.com/rights.Disruption type: Delayed</p></blockquote><p><strong>Update:</strong> After I complained to the The Norwegian Travel Complaint Handling Body, and they threatened to look at the case and asked Norwegian for a statement, Norwegian agreed to give me EUR 400 plus NOK 418 for food, and one of the taxi rides. This cost me no legal fees at all. Thanks for the help!</p>",
+        "Tags": "['air-travel', 'delays', 'compensation', 'ec261', 'norwegian-air-shuttle']"
+    },
+    {
+        "Id": "5695",
+        "Title": "Where is the safest place in a train?",
+        "Body": "<p>This morning I had to make a small (2-3 hours) train journey with a friend. He is a little anxious and unreasonable, and doesn't trust public transport. He won't fly at all and normally, he doesn't take the train, because he says it is too dangerous. Normally, he only trusts himself when he is the driver of his car. But today it was necessary to take the train.</p><p>During the journey, we had a discussion about the safest place in a train. I'm convinced that the safest places are in the back of the train, since normally, if a train has an accident, it either hits something head-on or the engine derails. So I assume that the impact is lower in the back of the train.</p><p>My friend argues that the places at the front of the train are safer. He has various reasons for that: </p><ol><li>In case of emergency it is more probable that the electronic is working in front of the train. Therefore it is easier to open doors and get out of the train. He compares that with seats on a place directly around a emergency exit. </li><li>The driver of a vehicle always protects his side unconsciously. I can follow this argument in case of a car, but how should it work in a train? </li><li>Cars at the end of a train have a higher chance to derail.</li></ol><p>So I'm not sure who is right. Are there any statistics about safest places in a train? I know that such things exists for planes, but how is it in trains? I would really like to persuade my friend, so that we can travel more together by train.</p>",
+        "Tags": "['trains', 'safety']"
+    },
+    {
+        "Id": "110154",
+        "Title": "How to avoid luggage being lost in transfer?",
+        "Body": "<p>I'm a frequent flyer, I'm ALWAYS booking non-stop flights because I'm terrified of my luggage not being transferred to the correct plane and getting lost. This happened to almost every person I know. This summer I'm planning a trip and price for non-stop flights are just unreasonable (\u00a31800 instead of \u00a3700). Are there any tips how to minimize this from happening?</p><p>I will be travelling with Emirates airlines</p>",
+        "Tags": "['air-travel', 'luggage', 'airports', 'connecting-flights']"
+    },
+    {
+        "Id": "118383",
+        "Title": "My seatmate has digestive problems causing unpleasant smell. What ought the cabin crew do?",
+        "Body": "<p>After my mom's Air Transat flight  took off, her seatmate started to fart  stinkingly. She can't tactfully complain to the cabin crew, as her seatmate'd know that she snitched on him. Fully opening the air vents didn't help. My mom couldn't tolerate inhaling sulphur for hours, and tried to solve this herself.  </p><p>Seeing no empty seats in economy class, she walked to business class with her carry-on (fetched from the overhead bin), and found an empty seat. When the <a href=\"https://en.wikipedia.org/wiki/Flight_attendant#Chief_Purser\" rel=\"noreferrer\">most senior cabin attendant</a> spotted this (call him Purser), my mom explained the farting and asked if there were other economy seats. Purser replied that there were none,  but just ordered her back to her economy class seat. My mom asked him what he could do, but he just said that he couldn't do anything. After the Purser threatened to arrest her if she didn't return, my mom tried to sit down, but still smell the farting at her seat. She asked  if Purser had any masks or air sprays, but he said no. </p><p>Thus my mom spent the rest of her flight standing, wretchedly, in a galley. Yet for the last 30 minutes of her flight, Purser  ordered her to return to her (stinky) seat for landing. </p><ol><li><p>Should my mom  have been allowed this empty business class seat? </p></li><li><p>What were possible in-flight solutions to this difficulty?</p></li></ol>",
+        "Tags": "['air-travel', 'hygiene']"
+    },
+    {
+        "Id": "40628",
+        "Title": "From what point could you view the most US states?",
+        "Body": "<p>A fairly simple question: from what single point could you see the most US states?  It seems like it should be a popular tourist attraction.</p>",
+        "Tags": "['usa', 'factoids', 'where-on-earth', 'vantage-points', 'geography']"
+    },
+    {
+        "Id": "3772",
+        "Title": "Where should I travel in Europe if I want to climb a high mountain without equipment?",
+        "Body": "<p>I'm really into hiking during the last few years. Now I want to climb the highest mountain in Europe that is accessible by a hiker without any alpine tour experience. That means I have no problem walking a whole day or climbing over 2000-3000 meters in one day, but I'm not used to glaciers, or any equipment that includes ropes or climbing irons.</p><p>So I assume that in Africa, my goal would be <a href=\"http://en.wikipedia.org/wiki/Mount_Kilimanjaro\">Kilimanjaro</a>, but what mountain and starting village should I travel to if I want to stay in Europe?</p>",
+        "Tags": "['europe', 'hiking', 'mountain-climbing']"
+    },
+    {
+        "Id": "9980",
+        "Title": "Low cost airlines search engine?",
+        "Body": "<p>With wheretowhen.com dying a few years ago and, now, airninja.com having become a regular (non-budget) flight search engine, is there any website left which lists the routes of budget airlines and makes them easily searchable?</p><p>Note that something like hipmunk (though excellent) isn't applicable, as most low cost airlines don't show up on hipmunk (nor on most other flight search engines).</p>",
+        "Tags": "['air-travel', 'budget', 'online-resources', 'low-cost-carriers', 'flight-search-engines']"
+    },
+    {
+        "Id": "110341",
+        "Title": "Personal security during a business trip to Moscow",
+        "Body": "<p>In the next few weeks I\u2019ll be traveling to Russia for about a week on business.</p><p>While there, I'd like to spend some time, although it won\u2019t be much time, seeing as much of the city and culture as possible.</p><p>I\u2019m finding that everyone I\u2019ve told about my upcoming business trip (family, friends and to my surprise my  Russian business counterparts) who seem to have more concern over my security than I do.</p><p>I\u2019m extremely security conscious while traveling out of the country, but I\u2019ve never been to Russia, so I\u2019m hoping to gain some insight from other travelers who\u2019ve been to Russia, in regard to traveling and \u201cgetting lost in the city while exploring\u201d by myself.</p><p>My hosts had me push back my departure date one time already saying that they couldn\u2019t make it on that date of my arrival to pick me up. To which I replied, \u201cI\u2019ll get a rental car, take a taxi or hop on a train if necessary.\u201d </p><p>I was told, not advised, that my Russian hosts felt my life would be at risk in doing so and basically demanded I reschedule the flight; which I did as not to cause an issue with new business contacts before we\u2019ve even meet in person.</p><p>Has the security level for Americans truly degraded to the point that I shouldn\u2019t be taking in the beauty of Moscow on my own, as I try to do in every city I visit, whether traveling on vacation or on business?</p><p>I can understand there being an extra level of awareness required; but has it truly become so \u201cdangerous\u201d for American travelers that this is good advice I should be listening to, or has the media caused such a frenzy that\u2019s it\u2019s fueling fears causing this type of reaction?</p><hr><h2>UPDATE</h2><p>based on all the comments and answers given; the 2 most common warnings, so to speak, to watch out for have been:</p><ol><li><p>Pickpocketing - Some good advice on making copies of my documents, bring a second form of ID in case the first if stolen, don\u2019t \u201cflash your cash\u201d and always \u201cwatch my six\u201d or rather always having a high level of situational awareness as to avoid having someone steal my things.</p></li><li><p>The \u201ctourist price\u201d - When a local who\u2019s offering a service or an item for sale, takes advantage of a tourist due to: a general lack of knowledge of what\u2019s common practice or pricing for the region.Or sometimes the inability of a tourist to speak in the native tongue; this is leveraged against a tourist to markup the prices significantly; sometimes 10 times or 20 times above the actual non tourist price</p></li></ol><hr><p><strong>UPDATE</strong></p><ol start=\"3\"><li>The Traffic - An additional trend among responses that has a majority of comments agreeing that this is indeed an area of concern for personal safety while traveling through Russia.</li></ol><p>All 3 of these are fairly common items on the list of things to watch out for when traveling internationally. Again, this will not prevent me from enjoying a tour around the city, by myself, and getting to take in the town and the culture on my upcoming business trip to Russia.</p><p>Thus far, it does appear to be a situation where because of recent events and the \u201cspin\u201d or \u201cover hype\u201d of the national news; there are a lot of misinformation, and general lack of facts creating a negative, self perpetuating, image being created of a non existent threat or risk.</p>",
+        "Tags": "['public-transport', 'russia', 'security', 'business-travel']"
+    },
+    {
+        "Id": "153382",
+        "Title": "Is it possible to add a Frequent Flier number after the flight is booked?",
+        "Body": "<p>My university is responsible for booking flights on my behalf. I wanted to know if it's possible to add my frequent flier number and credit the miles to it after the flight has been booked?</p><p>Is it airline dependant? For this particular flight, the most likely choices are SIA, ANA or JAL</p>",
+        "Tags": "['airlines', 'loyalty-programs']"
+    },
+    {
+        "Id": "141117",
+        "Title": "How soon after takeoff can you recline your airplane seat?",
+        "Body": "<p>Airplane announcements always say that that \"the seatback has to be in an upright position\" for takeoff.  However, <strong>what's the earliest you can recline your seat after takeoff</strong>?  The moment the wheels leave the ground, when the wheels retract, or when the seatbelt sign goes off?</p><p>For extra credit, does it make a difference if the seat moves back or simply slides down?  (I assume that for those business class seats where you need to stand up to flip them down, you have to wait for the seatbelt sign.)</p><p>And for avoidance of doubt, assume there's nobody behind you because we've already spilled plenty of pixels on that topic.</p>",
+        "Tags": "['safety', 'seating', 'aircraft', 'etiquette']"
+    },
+    {
+        "Id": "85833",
+        "Title": "Is it offensive to use 'Saigon' instead of 'Ho Chi Minh City'?",
+        "Body": "<p>I've heard some people talking about Saigon instead of Ho Chi Minh City. Besides the fact that those people usually were French (I'm French myself as well) I was wondering if that could be considered offensive by the Vietnamese people. As Saigon is the old name, they might feel a bit weird if someone was reminiscing about the \"good old days\" when Vietnam was a French colony.</p>",
+        "Tags": "['local-customs', 'vietnam', 'ho-chi-minh-city']"
+    },
+    {
+        "Id": "157554",
+        "Title": "Are there a FEW languages that, along with English, will let a person be understood by the vast majority of people in North-Western Europe?",
+        "Body": "<p>I'm referring to Belgium, the Netherlands, Luxembourg, Germany, Switzerland, Austria, and Denmark.</p><p>Will it be possible to add Norway, Sweden, and possibly even Finland and Iceland?</p><p>And how about the northern parts of France and Italy?</p><p><sub>(I've listed them according to 3 groups which I thought would be easiest to include, and then west to east except for Denmark so as to be mentioned right before the other Scandinavian states, and Iceland because of the leap in distance. I hope I didn't step on anyone's toes.)</sub></p><p><strong>In case my question wasn't clear</strong>, I was wondering if there are two or three languages which would, with the addition of English, be understood by the vast majority of people in North-Western Europe. It doesn't have to be their first language. For example, perhaps Germany's \"official\" German would be understood by anyone in the first group (and perhaps the third group as well?) who doesn't understand English, and then some Scandinavian language would be understood by almost everyone in the second group. Or perhaps France's \"official\" French could be substituted for German, gaining all of France (and northern Italy?) without losing anyone? Or maybe English would be understood by most everyone in the first group, and one Scandinavian language would be understood by the rest? If so, which one? Or maybe English is enough since I'm not asking about carrying long conversations well, just about being understood.</p><p>I've already seen <a href=\"https://travel.stackexchange.com/q/35348/91152\">As a native English speaker, which two further languages would give me the most travel utility worldwide?</a> but that's worldwide.</p><p><strong>EDITS</strong></p><p><a href=\"https://travel.stackexchange.com/questions/157554/are-there-a-few-languages-that-along-with-english-will-let-a-person-be-underst#comment393044_157554\">A comment</a> says that it \"Feels like a flawed question\" because I couldn't learn another language as well as the \"vast majority of people in NW Europe\" know English. Besides the fact that many other answers here say that that (that the vast majority know English) is wrong, and besides the fact that even if that is true, that would simply be the answer (that there is no need for any other language) and not knowing the answer doesn't make a question flawed, it also completely misunderstands the question (by assuming I would like to learn a language that others already know).</p><p>From the comments, it seems that some misunderstood the question. So:</p><ul><li>If a person there understands a basic English - I won't need anotherlanguage to communicate with said person. (I'm not trying to compose apoem for them, just do some basic communication.) I'm asking about additional languages for communication with those who don't understand enough English for a <em>simple</em> conversation.</li><li>If 51% of a country speaks a language I know (e.g. English), that is notthe \"vast majority\" (mentioned in the title). If 51% of the populationof a country understands English, that means that in areas out of thetourist areas and big cities one is likely to have a hard time because oflack of a common language.</li><li>Learning a language <em>well</em> can take a lot of time so might be impractical. But learning enough to get by is much faster.</li></ul>",
+        "Tags": "['languages', 'western-europe', 'language-choice']"
+    },
+    {
+        "Id": "132985",
+        "Title": "Can a hotel cancel a confirmed reservation?",
+        "Body": "<p>I booked a hotel a yesterday though Booking.com for a special occasion in Barcelona (I'm traveling from another European country). The booking isn't for another few months.</p><p>The booking includes:</p><ul><li><p>Free Cancellation</p></li><li><p>Pay at the hotel</p></li><li><p>Confirm booking with Credit Card</p></li></ul><p>The hotel confirmed the booking this morning, and then a few hours later submitted this message though the booking.com website to raise the rate by around \u20ac40/night (If I try to book it again from Booking.com the price is around 265\u20ac/night and they are now offering the hotel at 165\u20ac/night)</p><p><strong>Message:</strong></p><blockquote><p>Dear XXXXXXX,\u00a0</p><p>We contact you in reference to your reservation, madein the last few hours, at the Hotel XXXXXXXXX.\u00a0Unfortunately we haveto inform you that there has been a serious human error and thereforethe rate of your reservation does not match to this hotel category.Due to this situation, we would like to offer you the possibility tocancel your reservation, obviously without any cost, or to reconfirmyour reservation at the special rate of EUR 165 per night / room VATincluded.\u00a0 We appreciate your understanding and cooperation in thesecircumstances and we ask you to accept our sincere apologies, hopingnot to cause any inconvenience.\u00a0 We are waiting for you to indicatewhich of the two alternatives offered is of your greatestconvenience.\u00a0</p><p>Sincerely,\u00a0</p><p>XXXXXXXXXXX</p></blockquote><p><em>Do I need to accept their new terms of the booking, accepting their new price/cancel or am I entitled to keep the original price?</em></p><p>I wouldn't want to arrive there with a sour taste in my mouth, or for them to cancel the booking last minute with no recourse, while I had originally budgeted \u20ac140/night, we want the trip to be special with no issues.</p><hr /><p><kbd>Thanks for the feedback everyone, just to keep you updated:</kbd></p><p>I've received the following mail from Booking.com (Previously the same details from the hotel itself)</p><p><strong>Message from Booking.com:</strong></p><blockquote><p>Dear XXXXXXXX,</p><p>My name is XXXXXXXX from Booking.com and I had the pleasure of working onyour reservation today. I attempted to reach out via phone butunfortunately we were unable to connect.</p><p>I tried calling you to discuss an error in the rates for your bookingwith XXXXXXXX(Hotel), but was unable to reach you.</p><p>Booking.com sent an email a couple days ago regarding yourreservation. Since there has been no reply, I just wanted to follow upagain and see if you had received our email. If not, the informationfrom the original email is below:</p><p>The actual rate for XXXXXXXX(Hotel) is 660 EUR VAT included, andnot 495.84 EUR as mentioned in your booking confirmation.</p><p>I am sorry for any inconvenience this situation may cause however, theproperty would like to offer you a free upgrade to a better roomcategory, if available at check in, and they will offer a discount of50% for breakfast.</p><p>Please reply to this email and let us know as soon as possible if youaccept this offer or want to cancel your booking free of charge. Ifyou have any questions or concerns, just let us know.</p><p>We look forward to hearing from you.</p><p>-- XXXXXXXX XXXXX Booking.com Customer Service Team</p></blockquote>",
+        "Tags": "['europe', 'hotels', 'cancellations', 'barcelona', 'booking.com']"
+    },
+    {
+        "Id": "100263",
+        "Title": "How to plan a UK train route avoiding the tube?",
+        "Body": "<p>Planning a train journey in the UK using any of the major booking services allows you to specify <em>stations</em> to avoid or travel via.  I would like to avoid taking the tube. In this case it is only a preference because of luggage and a small person; for someone who couldn't manage stairs it would be much more significant.</p><p>Avoiding the London mainline stations doesn't do the trick:If I tell (e.g.) thetrainline.com to avoid Paddington on a route from say Bristol to Norwich it says I should change at Reading, take another train, then the tube.</p><p>If I specify a plausible alternative route (via Birmingham New Street), I'm either ignored or I get a ridiculous route that manges to include London and Birmingham. Doing this manually I can come up with a very slow journey, but I can't think of all possible interchanges.</p><p>So is there a tool that allows train routes to be calculated avoiding the tube?  Or step free?</p>",
+        "Tags": "['uk', 'trains', 'online-resources', 'planning']"
+    },
+    {
+        "Id": "98221",
+        "Title": "How can I avoid ordering multiple bottles of water at a restaurant?",
+        "Body": "<p>I have a couple esophageal conditions that result in a high probability of a <a href=\"https://en.wikipedia.org/wiki/Esophageal_food_bolus_obstruction\" rel=\"noreferrer\">food bolus impaction</a> when eating (a food bolus impaction is when <a href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3099357/\" rel=\"noreferrer\">food gets stuck in the esophagus</a>). There are a few precautions I take when eating to reduce the risk of food getting stuck in my esophagus, one of them being taking a drink with every swallow. Naturally, this means I consume a fair amount of water during a meal.</p><p>While traveling to France and Germany recently, I had a bit of a hard time getting enough water during my meal. I can't just ask for a pitcher of (tap) water like I can in the USA. In Europe, when you order water, you get bottled water<sup>1</sup>, and specifically requesting tap water is bad etiquette.</p><p>But one bottle of water isn't enough.</p><p>Is there a way I can request a sufficient supply of (still) water, without breaking etiquette rules?</p><p>The only option I've thought of is ordering multiple bottles of water (which, depending on the meal and the bottle size, could easily be 4+), but that's: expensive, potentially wasteful (if I order more than I need), and a little weird. I don't mind revealing my swallowing issues, though preferably if I must, I'd do so with a very concise explanation.</p><p><sub><sup>1</sup>And hopefully I remembered to ask for <em>still</em> water. Getting a food impaction when chasing food with carbonated water (or any kind of carbonation) is the <em>worst</em>.</sub></p><p><strong>Edit:</strong> Wow, so tap water seems to be more common than I had thought in France. My initial assumption was based on my previous experience, in which I was eating at a restaurant in Paris (I can't recall it's name, but it was quite popular (but not expensive)). When I asked the waitress for tap water as my drink (and declined wine and other drink options), she was visibly shocked and upset. For the rest of the evening she either ignored me (and my wife), or if she had to interact with us, she had a permanent scowl directed at us. It was quite clear she fully expected us to order a \"proper\" drink. I assumed I had broken some kind of French etiquette rule due to this experience.</p>",
+        "Tags": "['europe', 'health', 'food-and-drink', 'etiquette', 'restaurants']"
+    },
+    {
+        "Id": "4031",
+        "Title": "Is there a powerstrip that accomodates most if not all AC power plugs?",
+        "Body": "<p>You can buy travel adapters for AC power plugs, but do powerstrips exist that accommodate different international power plugs in one unit? When travelling and collaborating in an international environment, power cords turn into a spaghetti of cords. </p><p>It would be so convenient if powerstrips exist that accommodate for example a US, a British, French/German power cord on one unit, but I have not found one and I have searched extensively. </p><p>Do they exist at all, or do international laws prohibit such a device?</p>",
+        "Tags": "['electronic-items', 'shopping', 'gear', 'power']"
+    },
+    {
+        "Id": "118717",
+        "Title": "Dress for First Class?",
+        "Body": "<p>I'll be flying first class from Kansas City to Orlando this fall. This'll be my first time experiencing this, as I typically fly coach. This time around I found a good deal on FC seats and just wanted to experience it at least once. </p><p>Any suggestions on typical dress for first class? I know this sounds silly, but I didn't know if it's considered proper etiquette to dress more professionally or at least nicer when sitting up front?  </p><p>EDIT: I understand that domestic First Class is not the same as Intl. I'm not expecting fancy lie-flat seats, or walled-off suites. I know the seats are bigger, and you get to board/de-plane first. What I'm asking, is do people tend to dress nicer than, say, shorts/t-shirt when riding up front? </p><p>UPDATE: the plane(s) I\u2019m flying on are B737-800s. I have one short layover in ATL both ways</p>",
+        "Tags": "['airlines', 'etiquette', 'luxury', 'dress-codes']"
+    },
+    {
+        "Id": "83913",
+        "Title": "Using US \"chip & signature\" Credit Cards abroad in \"chip & PIN\" countries",
+        "Body": "<p>I am currently living & working in the USA and as such, I have credit cards with \"chip & signature\" security.<br>When I use one of these cards, I either insert it into the chip-reader in the merchant's card terminal, or if they haven't yet begun accepting chip cards I swipe my card through the old magnetic strip reader.<br>I then may, or may not, be asked to provide a signature using the \"pen\" on the terminal's touch-screen.  </p><p>But I will soon be traveling internationally to countries where \"chip & pin\" is the standard form of credit card security - and many merchants in those countries have credit card terminals which have neither magnetic strip readers nor \"pens\" to sign on the screen.  </p><p>Do I need a pin code associated with my credit cards in order to be able to use them in these countries?<br>Will my transactions just be authorized with no pin or signature?</p>",
+        "Tags": "['money', 'payment-cards']"
+    },
+    {
+        "Id": "47050",
+        "Title": "Communicating in Tokyo without Japanese",
+        "Body": "<p>I'm going to Japan soon. (Like my previous question.) And I'm going to Tokyo.</p><p>I'm not <strong>at all</strong> good at communicating in Japanese. A beginner, not even able to use it for basic purpose.</p><p>How can I communicate? e.g. if I use a pronounceable phone app, will it be rude? Or, can I use English? (We all know Japanese katakana is very different from English.)</p>",
+        "Tags": "['japan', 'language-barrier']"
+    },
+    {
+        "Id": "6092",
+        "Title": "Is there any reason not to do laundry with bar soap?",
+        "Body": "<p>When traveling light, is there any reason not to use standard hotel-issue bar soap to wash clothes in a hotel sink?  Carrying powder laundry detergent (or worse, liquid!) seems like a big hassle if standard hand/bar soap will do an adequate job.  If I go this route, are there any common clothing materials that won't stand up to this sort of washing over time?</p>",
+        "Tags": "['clothing', 'hygiene']"
+    },
+    {
+        "Id": "83925",
+        "Title": "Please advise on US-locations similar to WestWorld, Magnificent Seven landscape",
+        "Body": "<p>I'm a European and a huge fan of long distance offroad-motorcycle travel, would love to hear some advice on <strong>\"wild-west\" landscape locations</strong> (for the lack of a better word).</p><p>Something similar to The Magnificent Seven (2016 remake) or WestWorld tv show:</p><p><a href=\"https://i.stack.imgur.com/Pit7U.jpg\" rel=\"nofollow noreferrer\"><img src=\"https://i.stack.imgur.com/Pit7U.jpg\" alt=\"enter image description here\"></a></p><p>I've visited Grand Canyon and Monument Valley, and both are kinda \"desert-ish\", while the one on the picture looks more Northern (since there's grass and trees, sometimes even forests).</p><p>Where should I go? Utah?</p><p>PS. I'm not a huge western-movie fan, just like this kind of nature :)  </p>",
+        "Tags": "['usa', 'motorcycles', 'utah', 'scenic-routes']"
+    },
+    {
+        "Id": "14297",
+        "Title": "Is it possible to travel on cargo airplanes?",
+        "Body": "<p>Some time ago I heard someone telling about travelling in cargo planes. Apparently some of those planes have a limited amount of extra seats and companies would sell them for an extra profit.</p><p>Does anyone have any information about this? Is that still possible? </p>",
+        "Tags": "['air-travel', 'freighter-travel']"
+    },
+    {
+        "Id": "18394",
+        "Title": "If, like Edward Snowden, your passport was revoked or cancelled, how could you travel?",
+        "Body": "<p>As per the news, NSA whistle-blower Edward Snowden has had his passport revoked by the United States Government.  </p><p>From the article:</p><blockquote>  <p>It was not immediately clear how Snowden was able to travel,</p></blockquote><p>However, he was able to fly from Hong Kong to Russia, and apparently plans to continue on to Latin America / Cuba.  </p><p><strong>With a revoked passport, how is one legally able to travel internationally??</strong></p>",
+        "Tags": "['passports', 'legal', 'international-travel', 'paperwork']"
+    },
+    {
+        "Id": "77790",
+        "Title": "How to safely store my locker key in a hostel at night?",
+        "Body": "<p>When staying in hostel dorms I usually place my valuables in a locker provided by the hostel and lock it, typically with my own key-padlock. When I go out I take the key with me and I'm perfectly fine with that. </p><p>However <strong>when I am sleeping at night, what is the best practice to storing the key to my locker/padlock?</strong> (While I am asking about the key only, I typically also have my cell-phone out to charge at night and as it serves me as an alarm clock in the morning, so a ideally a solution would be valid also for that.)<br>I am a deep sleeper at times and I am concerned someone might take the key from me, open the locker and make off with my valuables while I'm snoring away in a worst case scenario.</p><ul><li>I mean I could wear boxers with a sewn-in secret pocket for my key, but I don't have that and it might still end up uncomfortable.  </li><li>I guess many would place their key (and stuff) under their pillow but I typically move around and don't necessarily sleep with my head on the pillow so that would not work for me either.  </li><li>What I typically currently do is to leave my key (and cell) in the pockets of my pants, roll them up into a packet when I go to sleep and place them on the wall side of my bed, near to my head. I've never had any problems with that, but I guess that is more due to luck than fool-proofness of my method. </li><li>Finally I know there are combination padlocks out there but they can be opened by trial and error <a href=\"https://travel.stackexchange.com/a/76073/32134\">or easier</a> and have <a href=\"https://travel.stackexchange.com/q/76053/32134\">other deficits</a>. </li></ul><p>So ideally I am looking for something that outperforms the above practices in the given scenario, but I am of course all in for other useful hints. </p>",
+        "Tags": "['tips-and-tricks', 'security', 'hostels', 'backpacking']"
+    },
+    {
+        "Id": "22527",
+        "Title": "Which locations are traditionally Santa's home - i.e. where can you visit Santa Claus year-round?",
+        "Body": "<p>Obviously around this time of the year, Santa and his minions will be out and about, finding out who is naughty and nice, and delivering presents.</p><p>However, the rest of the year he's back at his home.  Where is that generally considered to be visitable?</p><p>Yes, in some traditions it's the 'North Pole', but I know at least one other country (Finland) has Rovaniemi as his home.</p><p><img src=\"https://i.stack.imgur.com/QGGQ7.jpg\" alt=\"enter image description here\"></p><p><a href=\"http://en.wikipedia.org/wiki/File:20121123_SantaClaus-Chicago.JPG\">Image source: Wikipedia</a></p>",
+        "Tags": "['where-on-earth']"
+    }
+]

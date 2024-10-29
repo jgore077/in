@@ -16,18 +16,11 @@ def remove_html_tags(text):
     clean = re.compile('<.*?>') 
     return re.sub(clean, '', text) 
 
-# #[]
-# def insert_sorted_for_k_elements(id,scores:OrderedDict,new_score,k=100):
-#     for id,score in scores.items():
-#         scores.
-#         if new_score>score:
-#             # Insert
-#             pass
  
 class BiEncoderWrapper():
-    def __init__(self,answers_file="./Answers.json",model_name="all-MiniLM-L6-v2",embeddings_file="embeddings.npy") -> None:
+    def __init__(self,answers_file="./Answers.json",model_name="all-MiniLM-L6-v2") -> None:
         self.model_name=model_name
-        self.embeddings_file=embeddings_file
+        self.embeddings_file=f"{model_name}.npy"
         self.answers_file=answers_file
         self.model:SentenceTransformer=SentenceTransformer(model_name)
         self.embeddings={}
@@ -61,8 +54,3 @@ class BiEncoderWrapper():
             results[id]=cosine_sim(encoded,self.embeddings[id])
         # Super lazy stupid code but I need to get it done
         return dict(sorted(results.items(), key=lambda x: x[1],reverse=True)[:k])
-    
-if __name__=="__main__":
-    encoder=BiEncoder("./Answers.json")
-    print(encoder.search("How do I get to Serbia?"))
-    print(encoder.search("How do I get a visa in Italy?"))
