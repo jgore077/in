@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1ZAnXpfn_myQEyHSrvFGKTAyhEazBo3Di
 """
 
+from BiWrapper import remove_html_tags
 
 TRAIN_FILE="train.json"
 VALIDATION_FILE="validation.json"
@@ -65,8 +66,8 @@ def load_topic_file(topic_filepath):
     for item in queries:
       # You may do additional preprocessing here
       # returing results as dictionary of topic id: [title, body, tag]
-      title = item['Title'].translate(str.maketrans('', '', string.punctuation))
-      body = item['Body'].translate(str.maketrans('', '', string.punctuation))
+      title = remove_html_tags(item['Title'].translate(str.maketrans('', '', string.punctuation)))
+      body = remove_html_tags(item['Body'].translate(str.maketrans('', '', string.punctuation)))
       tags = item['Tags']
       result[item['Id']] = [title, body, tags]
     return result
@@ -77,7 +78,7 @@ def read_collection(answer_filepath):
   lst = json.load(open(answer_filepath,encoding='utf-8'))
   result = {}
   for doc in lst:
-    result[doc['Id']] = doc['Text']
+    result[doc['Id']] = remove_html_tags(doc['Text'])
   return result
 
 
@@ -149,7 +150,7 @@ model.tokenizer.add_tokens(tokens, special_tokens=True)
 model.model.resize_token_embeddings(len(model.tokenizer))
 
 num_epochs = 2
-model_save_path = "./ft_cr_2024"
+model_save_path = "fine-tuned-bge-reranker-base"
 train_dataloader = DataLoader(train_samples, shuffle=True, batch_size=4)
 # During training, we use CESoftmaxAccuracyEvaluator to measure the accuracy on the dev set.
 evaluator = CERerankingEvaluator(valid_samples, name='train-eval')
@@ -309,7 +310,7 @@ def train(model):
     batch_size = 16
 
     # Rename this when training the model and keep track of results
-    MODEL = "finetuned-all-MiniLM-L6-v2"
+    MODEL = "fine-tuned-all-MiniLM-L6-v2"
 
     # Creating train and val dataset
     train_samples, evaluator_samples_1, evaluator_samples_2, evaluator_samples_score = process_data(queries, train_dic_qrel, val_dic_qrel, collection_dic)

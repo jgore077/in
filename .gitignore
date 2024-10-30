@@ -1,5 +1,6 @@
 fine-tuned-bge-reranker-base
 fine-tuned-all-MiniLM-L6-v2
+checkpoints
 .vscode
 *.pyc
 *.npy
