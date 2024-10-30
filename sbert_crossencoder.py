@@ -16,6 +16,7 @@ model_name = "BAAI/bge-reranker-base"
 # selectinga bi-encoder
 bi_encoder_model_name="all-MiniLM-L6-v2"
 
+
 from sentence_transformers import SentenceTransformer, util
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
@@ -83,20 +84,16 @@ def read_collection(answer_filepath):
 ## reading queries and collection
 dic_topics = load_topic_file("topics_1.json")
 dic_train=load_topic_file("./train.json")
-dic_val=load_topic_file('./validation.json')
 
 queries = {}
 train_queries={}
-val_queries={}
 
 for query_id in dic_topics:
     queries[query_id] = "[TITLE]" + dic_topics[query_id][0] + "[BODY]" + dic_topics[query_id][1]
     
 for query_id in dic_train:
     train_queries[query_id] = "[TITLE]" + dic_train[query_id][0] + "[BODY]" + dic_train[query_id][1]
-    
-for query_id in dic_val:
-    val_queries[query_id] = "[TITLE]" + dic_val[query_id][0] + "[BODY]" + dic_val[query_id][1]
+
     
 qrel = read_qrel_file("qrel_1.tsv")
 collection_dic = read_collection('Answers.json')
@@ -107,22 +104,27 @@ number_training_samples = int(num_topics*0.9)
 
 
 ## Preparing the content
-counter = 1
 train_samples = []
 valid_samples = {}
 for qid in qrel:
     # key: doc id, value: relevance score
     dic_doc_id_relevance = qrel[qid]
     # query text
-    topic_text = queries[qid]
+    topic_text=None
+    train_text=None
+    try:
+        train_text=train_queries[qid]
+    except:
+        topic_text = queries[qid]
+    
 
-    if counter < number_training_samples:
+    if train_text:
         for doc_id in dic_doc_id_relevance:
             label = dic_doc_id_relevance[doc_id]
             content = collection_dic[doc_id]
             if label >= 1:
                 label = 1
-            train_samples.append(InputExample(texts=[topic_text, content], label=label))
+            train_samples.append(InputExample(texts=[train_text, content], label=label))
     else:
         for doc_id in dic_doc_id_relevance:
             label = dic_doc_id_relevance[doc_id]
@@ -134,7 +136,6 @@ for qid in qrel:
                 label = 'positive'
             content = collection_dic[doc_id]
             valid_samples[qid][label].add(content)
-    counter += 1
 
 print("Training and validation set prepared")
 
@@ -195,7 +196,7 @@ def read_qrel_file(file_path):
 
 def load_topic_file(topic_filepath):
     # a method used to read the topic file for this year of the lab; to be passed to BERT/PyTerrier methods
-    queries = json.load(open(topic_filepath))
+    queries = json.load(open(topic_filepath,encoding='utf-8'))
     result = {}
     for item in queries:
       # You may do additional preprocessing here
@@ -209,7 +210,7 @@ def load_topic_file(topic_filepath):
 
 def read_collection(answer_filepath):
   # Reading collection to a dictionary
-  lst = json.load(open(answer_filepath))
+  lst = json.load(open(answer_filepath,encoding='utf-8'))
   result = {}
   for doc in lst:
     result[int(doc['Id'])] = doc['Text']
@@ -273,18 +274,34 @@ def split_train_validation(qrels, ratio=0.9):
 
     return train, validation
 
+def split_train_validation_with_defined_splits(qrels,train_topics,val_topics):
+    # Using items() + len() + list slicing
+    # Split dictionary by half
+    train_qrels={}
+    validation_qrels={}
+    for train_topic in train_topics:
+        if train_topic in qrels:
+            train_qrels[train_topic]=qrels[train_topic]
+    
+    for val_topic in val_topics:
+        if val_topic in qrels:
+            validation_qrels[val_topic]=qrels[val_topic]
+        
+    return train_qrels, validation_qrels
+
 
 def train(model):
 
     ## reading queries and collection
     dic_topics = load_topic_file("topics_1.json")
+    train_topics=load_topic_file(TRAIN_FILE)
+    val_topics=load_topic_file(VALIDATION_FILE)
     queries = {}
     for query_id in dic_topics:
         queries[query_id] = "[TITLE]" + dic_topics[query_id][0] + "[BODY]" + dic_topics[query_id][1]
     qrel = read_qrel_file("qrel_1.tsv")
     collection_dic = read_collection('Answers.json')
-    train_dic_qrel, val_dic_qrel = split_train_validation(qrel)
-
+    train_dic_qrel, val_dic_qrel = split_train_validation_with_defined_splits(qrel,train_topics,val_topics)
     # print(train_dic_qrel)
     # print(val_dic_qrel)
 
@@ -292,7 +309,7 @@ def train(model):
     batch_size = 16
 
     # Rename this when training the model and keep track of results
-    MODEL = "SAVED_MODEL_NAME"
+    MODEL = "finetuned-bge-reranker-base"
 
     # Creating train and val dataset
     train_samples, evaluator_samples_1, evaluator_samples_2, evaluator_samples_score = process_data(queries, train_dic_qrel, val_dic_qrel, collection_dic)
