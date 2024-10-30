@@ -1,6 +1,7 @@
 from BiWrapper import BiEncoderWrapper,remove_html_tags
 from CrossWrapper import CrossEncoderWrapper
 from ranx import Run
+from tqdm import tqdm
 import argparse
 import json
 
@@ -32,7 +33,8 @@ with open(topic_file,'r',encoding='utf-8') as topicfile:
 bi_dict={}
 cross_dict={}
 
-for topic in topics:
+print(f"Generating results for {args.bi} and {args.cross} then saving output to {out_file}")
+for topic in tqdm(topics,desc="Doing retrieval"):
     # I'm using the same format used in the training samples
     query=None
     if fine_tuned_query:
