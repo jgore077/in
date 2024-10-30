@@ -4,6 +4,9 @@ from ranx import Run
 from tqdm import tqdm
 import argparse
 import json
+import os
+
+RESULTS_DIRECTORY="results/"
 
 parser=argparse.ArgumentParser()
 
@@ -17,10 +20,13 @@ parser.add_argument("--type",action='store_true')
 parser.add_argument("--fine",action='store_true')
  
 
+if not os.path.exists(RESULTS_DIRECTORY):
+    os.mkdir(RESULTS_DIRECTORY)
+    
 args=parser.parse_args()
 
 topic_file=args.topics
-out_file=args.out
+out_file=RESULTS_DIRECTORY+args.out
 model_type=args.type
 fine_tuned_query=args.fine
 
@@ -50,10 +56,13 @@ for topic in tqdm(topics,desc="Doing retrieval"):
     cross_dict[id]=reranked
     
 
+trec_out_file=out_file+".trec"
 # Write bi-encoder output (bi_dict) to a file
 if model_type:
-    Run(bi_dict).save(out_file)
+    Run(bi_dict,name=args.bi).save(trec_out_file)
     
 # Write the cross-encoder output (cross_dict) to a file
 else:
-    Run(cross_dict).save(out_file)
+    Run(cross_dict,name=args.cross).save(trec_out_file)
+    
+os.rename(trec_out_file,out_file)
