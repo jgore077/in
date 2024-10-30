@@ -1,9 +1,9 @@
 import sys
 import json
 
-TRAIN=.80
-VAL=.10
-TEST=.10
+TRAIN=.90
+VAL=.05
+TEST=.05
 
 qrel=sys.argv[1]
 topic=sys.argv[2]

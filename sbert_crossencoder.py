@@ -11,6 +11,11 @@ Original file is located at
 TRAIN_FILE="train.json"
 VALIDATION_FILE="validation.json"
 TEST_FILE="test.json"
+# selecting cross-encoder
+model_name = "BAAI/bge-reranker-base"
+# selectinga bi-encoder
+bi_encoder_model_name="all-MiniLM-L6-v2"
+
 from sentence_transformers import SentenceTransformer, util
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
@@ -54,7 +59,7 @@ def read_qrel_file(qrel_filepath):
 
 def load_topic_file(topic_filepath):
     # a method used to read the topic file for this year of the lab; to be passed to BERT/PyTerrier methods
-    queries = json.load(open(topic_filepath))
+    queries = json.load(open(topic_filepath,encoding='utf-8'))
     result = {}
     for item in queries:
       # You may do additional preprocessing here
@@ -68,7 +73,7 @@ def load_topic_file(topic_filepath):
 
 def read_collection(answer_filepath):
   # Reading collection to a dictionary
-  lst = json.load(open(answer_filepath))
+  lst = json.load(open(answer_filepath,encoding='utf-8'))
   result = {}
   for doc in lst:
     result[doc['Id']] = doc['Text']
@@ -77,9 +82,22 @@ def read_collection(answer_filepath):
 
 ## reading queries and collection
 dic_topics = load_topic_file("topics_1.json")
+dic_train=load_topic_file("./train.json")
+dic_val=load_topic_file('./validation.json')
+
 queries = {}
+train_queries={}
+val_queries={}
+
 for query_id in dic_topics:
     queries[query_id] = "[TITLE]" + dic_topics[query_id][0] + "[BODY]" + dic_topics[query_id][1]
+    
+for query_id in dic_train:
+    train_queries[query_id] = "[TITLE]" + dic_train[query_id][0] + "[BODY]" + dic_train[query_id][1]
+    
+for query_id in dic_val:
+    val_queries[query_id] = "[TITLE]" + dic_val[query_id][0] + "[BODY]" + dic_val[query_id][1]
+    
 qrel = read_qrel_file("qrel_1.tsv")
 collection_dic = read_collection('Answers.json')
 
@@ -120,8 +138,7 @@ for qid in qrel:
 
 print("Training and validation set prepared")
 
-# selecting cross-encoder
-model_name = "cross-encoder/ms-marco-MiniLM-L-6-v2"
+
 # Learn how to use GPU with this!
 model = CrossEncoder(model_name)
 
@@ -299,7 +316,7 @@ def train(model):
         output_path=MODEL
     )
 
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer(bi_encoder_model_name)
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
 model.to(device)
