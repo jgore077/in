@@ -27,9 +27,6 @@ class CrossEncoderWrapper():
         # Sort the dictionary so that the best answers are at the top of the dictionary
         reranked=dict(sorted(reranked.items(), key=lambda x: x[1],reverse=True))
         
-        for key1,key2 in zip(results.keys(),reranked.keys()):
-            if key1!=key2:
-                print('Re-ranking detected')
         
         return reranked
             
