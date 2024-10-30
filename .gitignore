@@ -1,4 +1,5 @@
-ft_cr_2024
+fine-tuned-bge-reranker-base
+fine-tuned-all-MiniLM-L6-v2
 .vscode
 *.pyc
 *.npy

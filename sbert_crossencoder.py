@@ -309,7 +309,7 @@ def train(model):
     batch_size = 16
 
     # Rename this when training the model and keep track of results
-    MODEL = "finetuned-bge-reranker-base"
+    MODEL = "finetuned-all-MiniLM-L6-v2"
 
     # Creating train and val dataset
     train_samples, evaluator_samples_1, evaluator_samples_2, evaluator_samples_score = process_data(queries, train_dic_qrel, val_dic_qrel, collection_dic)
