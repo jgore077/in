@@ -27,8 +27,7 @@ class BiEncoderWrapper():
         with open(self.answers_file,'r',encoding='utf-8') as answersfile:
             self.answers=json.loads(answersfile.read())
         try:
-            with open(self.embeddings_file,'r',encoding='utf-8') as embeddingsfile:
-                self._pair_embeddings_with_ids(np.load(self.embeddings_file))
+            self._pair_embeddings_with_ids(np.load(self.embeddings_file))
         except Exception as e:
             self._create_embeddings()
             
