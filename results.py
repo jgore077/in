@@ -48,12 +48,14 @@ for topic in tqdm(topics,desc="Doing retrieval"):
     else:
         query=topic["Title"]+" "+remove_html_tags(topic["Body"])
     id=topic["Id"]
-    results=biencoder.search(query)
-    reranked=crossencoder.rerank(results,query)
     
-    # Assign dicts
+    results=biencoder.search(query)
     bi_dict[id]=results
-    cross_dict[id]=reranked
+    
+    # If we are only generating results for a bi-encoder we can save time by skipping the cross-encoder
+    if not model_type:
+        reranked=crossencoder.rerank(results,query)
+        cross_dict[id]=reranked
     
 
 trec_out_file=out_file+".trec"
