@@ -64,5 +64,6 @@ if model_type:
 # Write the cross-encoder output (cross_dict) to a file
 else:
     Run(cross_dict,name=args.cross).save(trec_out_file)
-    
+
+# Rename the .trec file because it was easier to use ranx to save the file
 os.rename(trec_out_file,out_file)
