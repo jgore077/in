@@ -1,4 +1,9 @@
 # Installation
+First you will need to clone the repo and change into its directory.
+```
+git clone https://github.com/jgore077/information-retrieval-assignment-3
+cd information-retrieval-assignment-3
+```
 To install this repo you need to run this command to collect its python deps
 ```
 pip install -r requirements.txt
