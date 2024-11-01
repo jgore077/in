@@ -12,5 +12,5 @@ args=parser.parse_args()
 results_file=args.results
 qrel_file=args.qrel
 
-
+print(f"Evaluating {results_file}")
 print(evaluate(Qrels.from_file(qrel_file,kind="trec"),Run.from_file(results_file,kind="trec"),METRICS))
