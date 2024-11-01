@@ -334,6 +334,8 @@ def train(model):
         output_path=MODEL
     )
 
+
+
 model = SentenceTransformer(bi_encoder_model_name)
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
