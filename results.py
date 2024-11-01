@@ -10,14 +10,14 @@ RESULTS_DIRECTORY="results/"
 
 parser=argparse.ArgumentParser()
 
-parser.add_argument("-a","--answers",default="./Answers.json")
-parser.add_argument("-b","--bi")
-parser.add_argument("-c","--cross")
-parser.add_argument("-t","--topics")
-parser.add_argument("-q","--qrel")
-parser.add_argument("-o","--out")
-parser.add_argument("--type",action='store_true')
-parser.add_argument("--fine",action='store_true')
+parser.add_argument("-a","--answers",default="./Answers.json",help="path to the answers file")
+parser.add_argument("-b","--bi",help="The name of the bi-encoder model")
+parser.add_argument("-c","--cross",help="The name of the cross-encoder model")
+parser.add_argument("-t","--topics",help="The path to the topics file")
+parser.add_argument("-q","--qrel",help="The path to qrel file")
+parser.add_argument("-o","--out",help="Determines where the results of the model will be stored")
+parser.add_argument("--type",action='store_true',help="Add this argument to save the results of the bi-encoder, saves cross-encoder by default")
+parser.add_argument("--fine",action='store_true',help="Tells the script that the model its running is fine-tuned and can use special tokens")
  
 
 if not os.path.exists(RESULTS_DIRECTORY):

@@ -4,8 +4,8 @@ import argparse
 METRICS=['precision@1','precision@5','ndcg@5','mrr','map']
 
 parser=argparse.ArgumentParser()
-parser.add_argument("-r","--results")
-parser.add_argument("-q","--qrel")
+parser.add_argument("-r","--results",help="The path of the results file")
+parser.add_argument("-q","--qrel",help="The path of the qrel file")
 
 args=parser.parse_args()
 
